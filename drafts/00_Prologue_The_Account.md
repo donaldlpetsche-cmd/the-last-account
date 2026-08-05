@@ -1,96 +1,264 @@
 # Prologue — The Account
 
-**Draft:** v1
+**Draft:** v2
 **POV:** Stephen Bentley
+**Register:** A (dominant); brief C-adjacent opening in the lobby
 **Target:** ~1,800 words
 **Status:** Chat draft for review
 
 ---
 
-The lobby of the Boston Mercantile Trust Building held its breath at night. Stephen had been inside it a hundred times during the day, when the marble under the chandeliers ran warm with foot traffic and the receptionist called him Mr. Bentley in a voice that suggested she had already forgotten him by the time he reached the elevators. After hours it was a different building. The security desk was staffed by one man reading something on a tablet, and the tellers' cages behind him — kept as decoration after the restoration — cast bars of shadow across the floor that Stephen had somehow never noticed before.
+Stephen Bentley crossed the lobby of the Boston Mercantile Trust Building at 9:43 on a Thursday night and the guard at the marble desk did not look up.
 
-He nodded at the guard. The guard nodded back and slid the log across.
+The guard was watching a Celtics game on his phone with the sound off. He waved the badge reader toward Stephen without turning his head, heard the green tone, and grunted.
 
-"Working late, Mr. Bentley."
+"Long one?"
 
-"Weaver wants the exhibits on his desk by seven."
+"Quarter-end."
 
-The guard made a small sympathetic sound and returned to the tablet. Stephen signed his own name because his own name was still, tonight, the safest thing he had. He listed the floor as fourteen. He did not list the vault.
+The guard nodded at the screen. Stephen wrote his name in the log and put the floor at seven.
 
-In the elevator he watched his hand hold the briefcase and made it stop shaking by an act of will he was surprised to still possess. He had rehearsed this in the shower, in the car, on the walk from the garage; he had rehearsed it against Avery's imagined voice saying it was crazy, which she would have, if he had told her, which he had not. He got off at fourteen because the log said fourteen and because Chelsea had told him that the camera on fourteen would show him going to his office at 9:41 and remaining there. From his office he took the interior stair down to the archive level. The stair door made a soft, expensive click behind him.
+He had used that answer for six years. It worked because it was usually true.
 
-The original vault had been kept as a feature. Weaver, Newman & Gaines liked to walk clients past it on the way to the conference rooms — the round steel door polished to a black mirror, the brass wheel restored, the interior converted into what the firm's marketing materials called a *document environment*. Behind the theater door were modern shelves, humidity control, and a fireproof internal cabinet with an antique secondary lock. Stephen had asked Weaver about that cabinet once, at a Christmas thing, and Weaver had smiled the smile he used when he wanted a conversation to end and said, *sentimental.*
+The lobby ran deep to the elevators, marble under chandeliers, a brass clock above the doors that had hung there since the bank opened in 1891. The clock ran twenty-seven seconds slow. The facilities director had noticed once before a board dinner and decided the discrepancy was not worth the restoration bill. The building was full of decisions like that.
 
-Chelsea had left him a ninety-minute window. He had asked for sixty and she had given him ninety without comment, which had told him more about what she thought of his odds than anything she could have said. The camera above the vault door was, according to the panel she had shown him on her laptop three days ago, in a maintenance loop. The keypad would accept Tomas Weaver's code between 9:50 and 11:20 without escalating an alert. After 11:20 it would remember him.
+Stephen's shoes sounded too loud on the stone.
 
-The keypad glowed under his hand. He entered the six digits. The lock cycled and the wheel turned itself a quarter revolution with the small hydraulic sigh a car door makes when it decides to close. He pulled. The door was heavier than he had expected and moved more easily than he had expected, and the combination confused his balance for a step.
+The elevator opened on seven into a reception area that had already gone to half-lights on the automatic timer. Photographs of regattas and hospital wings hung above empty chairs. He walked past reception, turned into the executive corridor, and stopped at the door at the far end.
 
-Inside, the air was cooler and drier, and it smelled faintly of new leather and old iron.
+His badge should not have opened it.
 
-He set the briefcase on the low table Weaver used to lay out estate binders for the clients he wanted to impress. From the inner pocket he took the key.
+It did.
 
-He had lived with the key in his pocket for eleven days. It was small — smaller than a house key, thicker in the bit, brass gone the color of a penny that had been through a fire. Chelsea had brought it back from a decommissioned depository in Providence and set it on his desk one afternoon inside a paper envelope with nothing written on the outside. He had understood, and she had understood that he had understood, and they had spoken about a client matter for eleven minutes and she had walked out and neither of them had said the word *cabinet.*
+Chelsea had been right.
 
-The internal cabinet stood against the back wall. It was the piece of the original building nobody had wanted to remove. Its front was walnut, its lock face brass, and its keyhole a shape he had only ever seen in period films. He knelt because he could not think of another posture that felt correct for what he was doing, and he slid the key in.
+He took the interior stair down past six and five and stopped at a landing with no number on the wall. The door there was painted the same flat gray as the corridor. A small rectangular camera watched it from above.
 
-It did not turn.
+The red indicator was dark.
 
-For a full second he considered that he had been wrong about all of it. About Chelsea, about the ledger, about what Weaver was, about what he himself had become in the last seven weeks. Then he remembered what she had said — *you have to lift* — and he lifted the key a hair and turned again and the mechanism gave, not smoothly but definitely, the way an old door gives when it decides to accept you.
+Stephen looked at it for two seconds and went through.
 
-The cabinet held four shelves. Three were binders. The fourth was a single book bound in oxblood cloth, unlabeled, the size of a hotel ledger from a place with a doorman.
+The temperature dropped. The floors above smelled of coffee and citrus cleaner. Down here the air was old stone and cold metal and the mineral damp of a basement built before anyone expected buildings to breathe. His phone gave up its signal one bar at a time as he walked.
 
-He took it down and set it on the table and opened it.
+He had known it would. Seeing the bars empty still tightened his throat.
 
-The first entry was dated eighteen years ago. He recognized the client name. He recognized the outcome. He did not recognize, until he read it a second time, that what was recorded was not the outcome the public record had ever shown. The right-hand column listed a sum and, next to the sum, in a narrow disciplined hand, the mechanism. *Testimony revised.* Two lines below, another matter he half-remembered from law school. *Objection withdrawn.* The names of the withdrawing counsel were there. Beside one of them, in the same hand, a parenthetical: *(disbarred 2011, unrelated).*
+The vault door waited at the end of the corridor. Seven feet of restored steel, brass wheel polished under recessed lights. During client tours the firm's marketing brochure called it a preserved architectural feature. The tour guides did not mention that it still worked.
 
-He turned pages. His breathing had gone shallow and he made himself take one deep breath because Chelsea had said the light in the vault was fine but the microphones were not necessarily. Employees discredited. A woman he thought he remembered from a lateral hire two years ago, listed with a date and a sum and a single word: *terminated.* A family relocated. An investigation, federal by the docket prefix, marked *redirected* with a small tick beside it.
+He set his document case on the narrow table beside the door and opened his laptop.
 
-And then, on a page five years from the front:
+A maintenance utility was already running. Chelsea had loaded it through a temporary building-access credential three days earlier. Green status lines filled the screen.
 
-*Arranged.*
+CAMERA LOOP: ACTIVE
+CORRIDOR SENSOR: BYPASSED
+VAULT ACCESS WINDOW: 08:12
 
-The word appeared twice on that page. It appeared again on the next page, and on the page after that, and Stephen realized, with a clarity that felt like cold water down his back, that the ledger was not evidence of a firm that occasionally strayed. It was the operating record of a service. Weaver Newman had a product line his own division had never been shown, and the product was outcomes, and the outcomes included people.
+Eight minutes, twelve seconds.
 
-He took out his phone.
+He closed the laptop without signing into the company network.
 
-He photographed the first page and the last page and every page in between where the hand had written *arranged* or *terminated* or a federal docket number. He held the phone as still as his hands would allow. He remembered halfway through that Chelsea had told him to shoot two frames of each page in case one blurred, and he went back and did the ones he had already done. His shirt was wet under the arms. The vault made him feel watched even though he knew, because Chelsea had told him, that he was not.
+A keypad had been added beside the original door. Stephen entered the six digits he had watched Tomas use three months earlier, in front of a client whose death had triggered a dispute among three adult children. The light went from red to amber. He put his right palm against the reader below it. For a full second the panel did nothing.
 
-When he had shot the last page he closed the ledger and put it back on the shelf exactly where it had been and closed the cabinet and turned the key and lifted the key out with the small hitch it required.
+Then the light turned green.
 
-He looked at the key in his palm for what felt like a long time and was probably four seconds.
+The modern lock released with a soft click. The old wheel required more. He gripped it with both hands and pulled. It resisted, then gave, then turned with the smoothness of machinery kept in condition by someone who expected to use it.
 
-Then he opened the briefcase.
+He opened the door far enough to enter.
 
-The lining had been separated from the shell by a tailor in Somerville who did not ask questions and had done the same for a friend of his in another life. He worked the key into the seam behind the interior pocket, felt it settle against the buckram, and pressed the seam closed. From two feet away the briefcase was a briefcase. From two inches away it was still a briefcase. He set it flat on the table and felt, for the first time since he had entered the building, that he might survive the night.
+The lights came on one row at a time.
 
-He took out his phone again. He opened his messages. He tapped Avery's name.
+The vault was larger than the photographs made it look. Shelving divided the space into narrow aisles of document boxes. Some carried printed retention labels. Others were marked only with initials and dates. Along the right wall stood several dozen safe-deposit compartments that predated the Second World War.
 
-The cursor blinked. The room was cold. He thought of her asleep, one arm under the pillow, and of the way she had asked him at dinner if he was all right and he had said he was tired, which was true, and had not said anything else, which was also true.
+He took the key from his inside pocket.
 
-He typed.
+It did not fit any of them.
 
-*There is something wrong with the account. Not the money. The reason for it.*
+He moved deeper into the room.
 
-He read it. It was not enough and it was too much. He deleted the last sentence and typed it again because he could not think of a better version. He added:
+The cabinet stood almost hidden behind a rolling shelf of foundation records. Chelsea had found the floor plan in an archived renovation permit and could not tell him whether the cabinet had survived the work.
 
-*If anything happens to me, go to*
+It had.
 
-He stopped because he did not, in fact, know who she should go to. He had a name in mind — a name Marley had mentioned once at a fundraiser, quietly, when Marley had understood that Stephen was asking the question underneath the question — but he was not ready to write it into a phone in a vault at ten minutes past eleven with the ledger still warm behind him. He held his thumb over the send arrow.
+Steel doors, painted dull green. No keypad. No record of its existence in the current storage index.
 
-Behind him, very softly, the vault door moved.
+He knelt because kneeling felt like the correct posture for what he was doing.
 
-Stephen did not turn around. He put the phone face down on the table, in the shadow of the briefcase, and he kept his hand on the briefcase because the briefcase was the key. He heard footsteps — one man, unhurried — cross the outer chamber and stop inside the door.
+He pushed the key in. It stopped halfway.
 
-"Working late, Stephen."
+He pulled it out and wiped his palm on his trousers. The teeth were uneven and stained dark around the edges. Six days ago he had found it in a yellow envelope taped beneath the bottom drawer of Edward Hollister's desk, the adhesive fresh against paper that had been aging for decades. He had understood before he finished sitting down. He and Chelsea had not spoken about the key at any point since, and would not.
 
-He knew the voice before he turned. Rylan Adams stood in the vault doorway in a dark suit with his coat still on, one hand in a pocket, the other holding a small radio he had not bothered to raise. His face carried no surprise at all. Behind him the corridor lights had come up to their daytime setting, which meant that somewhere, several minutes ago, someone had decided the loop was over.
+He tried again. He lifted the key a hair as he turned.
 
-Stephen straightened. He set his shoulders because he could think of nothing else to do with them. He kept his hand on the briefcase.
+The lock opened.
 
-Rylan looked at the cabinet. He looked at the table. He looked, at last, at Stephen, and his expression was almost kind.
+He held still. Nothing from the corridor. No alarm.
+
+Six minutes.
+
+The cabinet held four shelves. Three were empty. On the second shelf sat a black ledger bound in oxblood cloth, thick enough to require both hands, its corners worn to gray. No title on the spine. A narrow strap held it closed.
+
+He carried it to the table beneath the vault lights and opened it.
+
+The entries were handwritten in black ink. Each line began with a date, a client code, a transaction reference, and an amount. A short description filled the final column.
+
+He read the first page twice.
+
+*C-1187. Regulatory withdrawal. Son's tuition and appointment secured.*
+
+He recognized the client. He recognized the outcome. He did not recognize, until the second reading, that what was recorded was not the outcome the public record had ever shown.
+
+He turned the page.
+
+*M-4421. Municipal objection resolved. Payment through redevelopment counsel.*
+
+*W-9003. Former employee contained. Substance history established. Custody concern introduced.*
+
+*P-7710. Civil witness corrected before deposition.*
+
+Stephen felt the first hard beat of panic under his ribs.
+
+The language was restrained. Almost polite. Nothing admitted a crime directly. It did not need to. Every code tied to a matter already in the firm's system, and every matter, when the entries and the records were laid beside each other, would speak.
+
+He reached the entries from the previous year. A payment to a security consultancy matched the week an investment manager had died in a boating accident off Rhode Island.
+
+*Exposure closed. No secondary inquiry anticipated.*
+
+He stepped back from the table.
+
+For several seconds he could hear the ventilation and his own breathing.
+
+He had expected bribery. Tax concealment. Political payments routed around reporting requirements. He had imagined the book that would bring regulators down on Tomas Weaver before Tomas understood what had happened.
+
+The book was worse.
+
+It was not a record of stolen money. It was a record of purchased outcomes.
+
+He took his phone from his jacket. Chelsea had told him not to photograph in sequence. If the device was taken, they needed fragments difficult to interpret without the underlying accounts. Two frames per page against blur.
+
+He began with the entry tied to the dead investment manager.
+
+Then the witness.
+
+Then the foundation transfer.
+
+His hands shook enough that the third image blurred. He took it again.
+
+The ledger held years of entries. Hundreds. Some carried names he knew. Some had only an amount and a single word.
+
+*Resolved.*
+
+*Relocated.*
+
+*Discredited.*
+
+One said *Permanent.*
+
+He stared at it until the letters stopped meaning anything and then meant something else.
+
+His laptop chimed.
+
+He nearly dropped the phone.
+
+He opened the computer.
+
+CAMERA LOOP: ACTIVE
+CORRIDOR SENSOR: BYPASSED
+VAULT ACCESS WINDOW: 02:41
+
+Beneath the status lines a single message had appeared.
+
+MOVE. SECURITY CHANGE.
+
+Chelsea.
+
+He closed the ledger and carried it back to the cabinet. For one bad second he thought about taking it. The book weighed at least twelve pounds. The moment it left the shelf, Tomas would know exactly what had been found and could reconstruct approximately who had found it.
+
+Copies were safer.
+
+He set the ledger back on the shelf and closed the cabinet and turned the key.
+
+He looked at the key in his palm.
+
+The document case sat on the outer table where he had left it. He opened it and worked his thumb along the bottom seam of the lining until he found the gap the tailor in Somerville had left him. He pushed the key through the gap. He pressed the fabric flat.
+
+He took the phone back out.
+
+A message draft was already open. He had written it in the parking garage before coming inside because he had not wanted to compose the words for the first time in a vault. It was addressed to no one.
+
+*There is something wrong with the account. Not the money. The reason for it. I should have told you sooner. I am sorry.*
+
+He attached one image. Not the worst page. Not the best either. A middle page that would mean nothing without the reference and everything with it.
+
+Avery was on the lock screen. On the back steps last October, wrapped in one of his old sweaters, laughing at something outside the frame.
+
+Two minutes.
+
+A sound came from the corridor.
+
+Not the stairwell door. Closer. The soft electronic release of the vault access panel.
+
+He put the phone in the inside pocket of his jacket and closed the document case and turned toward the door.
+
+The wheel began to move before he reached it.
+
+Someone was opening the vault from outside.
+
+The door swung inward. Rylan Adams stood in the gap.
+
+He had come without a coat. His sleeves were rolled to his forearms. His tie was gone. Nothing in his face suggested he had expected to find the vault empty.
+
+His eyes went from Stephen to the document case to the cabinet at the back of the room and then to Stephen again.
+
+"You shouldn't be down here."
+
+Stephen kept his hand on the case.
+
+"Neither should you."
+
+Rylan stepped inside and pulled the door until only a narrow opening remained.
+
+"You used Mr. Weaver's access code."
+
+"I'm reviewing archived client records."
+
+"At ten o'clock at night?"
+
+"Quarter-end."
+
+Rylan looked at him for a long moment.
+
+The answer had worked in the lobby.
+
+Not here.
+
+The phone pressed against Stephen's ribs inside the jacket. Behind the stone walls it searched for a signal it would not find until he reached the elevator.
+
+Rylan's eyes settled on the shape faint through the lining of the jacket. The practiced calm in his face slipped. Not much. Just enough.
 
 "Who else have you told?"
 
 ---
 
-*End of prologue draft v1. ~1,830 words.*
+*End prologue draft v2. Approximately 1,780 words.*
+
+## Flags for review
+
+Per `workflow/01_PROSE_AND_NARRATIVE_STANDARD.md`, the following instances warrant a human read before acceptance:
+
+- **[AI-FLAG: tricolon]** — "He had expected bribery. Tax concealment. Political payments routed around reporting requirements." Three items of similar grammatical weight rendered as three sequential sentences. Kept because the rhythm sets up the *"The book was worse."* punch. Confirm the beat earns the pattern.
+- **[AI-FLAG: not-X-but-Y]** — "It was not a record of stolen money. It was a record of purchased outcomes." Close cousin of the flagged "not this, but that" construction. Preserved from prior chat draft because both drafts landed on the same phrasing and it reads as the scene's operative insight. Confirm.
+- **[AI-FLAG: adjacent length parity]** — Opening pair: *"He had used that answer for six years."* / *"It worked because it was usually true."* Nine and eight words. Within one. Kept for the small rhythm, but flag it.
+- **[AI-FLAG: adjacent length parity]** — *"Then the witness."* / *"Then the foundation transfer."* Fragmentary pair. Deliberate photographic beat, but confirm the parallel doesn't read as synthetic.
+- **[AI-FLAG: interior-summary]** — *"He had understood before he finished sitting down."* Brief summary of a realization. Kept because it is factual and one-line, but adjacent to the pattern the standard restricts. Confirm.
+- **[AI-FLAG: closing beat symmetry]** — *"Not much. Just enough."* Paired short fragments in the closing beat. Confirm the two-beat Rylan confrontation reads as intended and not as manufactured intensity.
+
+## Continuity checks
+
+- POV: Stephen throughout. No head-hopping.
+- Register: A dominant with a C-adjacent lobby opening. One transition, at the elevator.
+- Numeric specificity: 9:43 p.m., 1891, twenty-seven seconds, 8:12 window, 2:41 remaining, six years, three months, six days, twelve pounds.
+- No em dashes. No semicolons.
+- Key origin: Hollister's desk, six days prior, per locked canon.
+- Ledger entries use canon format (code, mechanism, euphemism).
+- Photography protocol: non-sequential, two frames per page (per canon).
+- Message wording: locked phrasing plus the *"I should have told you sooner. I am sorry."* extension from your earlier draft.
+- Key hidden in briefcase lining before Rylan enters. Rylan closing line as canon hook.
