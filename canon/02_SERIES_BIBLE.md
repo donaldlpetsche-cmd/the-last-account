@@ -113,3 +113,59 @@ Jack is Boston-born and Book One is Boston-centered. The series can become natio
 - Anton's unfinished intelligence history may eventually connect to Hattie's investigation.
 
 Exact Book Two through Book Ten plots remain unresolved.
+
+## Season Voice
+
+The series holds three tonal traditions inside one prose voice: the operational gravity of *Heat*, the ensemble warmth of *Leverage*, and the elite charisma of *White Collar* and *Suits*. These three do not naturally cohabit inside a single paragraph. The series manages them by scene register (Register A, B, or C), defined in `workflow/04_VOICE_REGISTER_STANDARD.md`. Every scene declares its register; every chapter declares its dominant register and transitions.
+
+### DNA-to-register mapping
+
+- *Heat* → Register A (operational). Short declaratives, beat-paragraphs, geographic seriousness, no interior narration, no charm.
+- *Leverage* → Register B (domestic/crew). Longer paragraphs, overlapping dialogue, distributed warmth, in-jokes untranslated, humor as protective texture.
+- *White Collar* and *Suits* → Register C (elite/adversarial). Precise cordial dialogue, quotable lines, institutional specificity, charm as leverage.
+
+### Distributed charm
+
+Charm is a shared resource of the crew, not a fixed attribute of Jack. Jack is devastating in Register C rooms and quieter in Register B. Nina, Reese, Anton, and Marcus each carry warmth and humor in their own register-specific way. Addison carries the only untrusted charm in the series. Hattie carries none.
+
+This choice is load-bearing for Book One, where Jack's arc is about withholding. A charm-forward Jack would undercut the fracture with Marcus and the failure at the gala.
+
+### Season temperature by book
+
+The season varies overall register temperature to keep the prose from settling into one texture:
+
+- **Book One — cold-leaning.** Register A dominates the middle third. Register B is tender because the fracture at the end requires the family to be real first. Register C carries the Weaver meetings and the gala.
+- **Books Two through Ten — provisional.** Temperature guidance is set during each book's outline phase and recorded here. The season should not run three consecutive cold books or three consecutive warm books. A caper-forward book leans B and C; a pursuit-forward book leans A.
+
+### Season-thread cadence
+
+The season's longer threads must surface on a patient rhythm rather than sprinkled across every chapter. Per-book baseline:
+
+- **Addison Moody:** one on-page appearance and one off-page implication per book minimum, more as her arc converges with Jack's.
+- **Hattie Baker:** documented growth in her Jack file every book. At least one meaningful advance per book, even if Jack does not encounter her.
+- **Matthew Mallory:** planted early, surfaces around the middle of the season on the currently mapped timing. Cameo signals permissible earlier; recognition scene is a single, load-bearing beat.
+- **Anton's intelligence past:** one deepening detail per book, converging with Hattie's arc no earlier than mid-season.
+
+### Recurring anchor locations
+
+The series has emotional home bases that must render consistently across books:
+
+- **Stan's bookstore** — Boston. Struggling used shop; back office; the second purpose is never named on the page. Where Jack goes when he cannot speak honestly to the crew.
+- **The Lowell home** — the crew's family gathering place. Kitchen and back porch are the emotional set. Betty and the children are family, never operational assets.
+- **Anton's locksmith and security shop** — working shop by day, quiet workroom by night. Katya's cello may sound from an adjacent space.
+- **Jack's operating base** — details remain unresolved and must be locked before the first scene set there.
+
+Geography, smells, sounds, and rituals of these anchors do not drift between books. A reader opening Book Four should recognize the Lowell kitchen from Book One without being reminded.
+
+### POV cadence across the season
+
+Jack is primary POV across all ten books. Secondary POVs are used deliberately and sparingly. Guidance:
+
+- Nina, Marcus, Anton, and Reese each carry a small number of chapters per book where their specialty is the load-bearing element.
+- Avery, Stephen (Book One prologue only), and other guests carry POV only when the story genuinely requires the inside of their head.
+- Addison carries POV in a small, controlled number of scenes per book, always Register C, always without tipping her knowledge to the reader through interior narration.
+- Hattie carries POV rarely and always in Register C or A, never B.
+
+### Adaptation posture
+
+The series is written to be adaptation-friendly without reading like a screenplay. Chapters render as chapters, not as scenes-with-slug-lines. Register A borrows *Heat*'s discipline without borrowing its shot language. Register C borrows the pleasure of a well-run scene without borrowing screenplay shorthand.
