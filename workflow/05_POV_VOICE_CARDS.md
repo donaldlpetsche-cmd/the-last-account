@@ -127,17 +127,18 @@ Voice cards are authoritative. When a chapter draft conflicts with the card, the
 
 ## Chelsea Boone
 
-**Registers:** C dominant (professional composure at WNG); A when she is running or replaying operational telemetry; B rare and only glimpsed in Book One.
+**Registers:** C dominant (professional composure at WNG); B in her own space when she is not composed.
 **Charm register:** none. She carries professional composure.
 
-- **Notices first:** anomalies. Out-of-pattern access, sessions that terminate without sign-off, files touched at the wrong hour, a colleague's face that is a fraction off from ordinary.
-- **Measures time by:** the seconds since a session dropped, the minutes past a prearranged check-in, retention windows, quarter closes.
+- **Notices first:** anomalies. Files touched at the wrong hour, out-of-pattern access on a report, a colleague's face that is a fraction off from ordinary, a message that should have arrived and did not.
+- **Measures time by:** minutes past a prearranged check-in, retention windows, quarter closes, the ordinary rhythm of an office morning.
 - **Native metaphors:** systems and controls. Exception, reconciliation, integrity, log, purge, chain of custody.
-- **Never in words:** Stephen's name spoken aloud after the prologue. The word *friend* about him. The word *afraid* about herself. Any admission of what she watched last night.
-- **Sentence tendencies:** precise, controlled, technically fluent. Complete sentences. Under strain the fluency tightens further rather than breaking.
+- **Never in words:** Stephen's name spoken aloud after the prologue. The word *friend* about him. The word *afraid* about herself. Any direct statement of what she and Stephen were doing.
+- **Sentence tendencies:** precise, controlled, professionally fluent. Complete sentences. Under strain the fluency tightens further rather than breaking.
 - **Silences:** trained. She has been sitting on knowledge for eight weeks before the prologue and has taught herself to hold a face across a meeting.
 - **Dialogue tics:** professional courtesy. Uses proper names. Deflects with technical detail when she needs to change subject. Never volunteers information.
 - **Fear rendered through:** a spreadsheet she keeps re-formatting, a passphrase she mistypes twice, the small physical failures of a person maintaining an ordinary surface.
+- **Information posture:** Chelsea's power in her POV is intelligence, not access. She has no live telemetry, no camera loops, no admin consoles. She knows what she has helped Stephen plan, and she reasons from what does and does not happen. Her POV must reflect the limits of what she can know rather than granting her convenient omniscience.
 - **Book One arc constraint:** after the prologue she goes still. Her POV in Chapter 13 must register that stillness as a decision she has been holding, not as a passive state. When Jack finds her, she meets him already having chosen.
 
 ---

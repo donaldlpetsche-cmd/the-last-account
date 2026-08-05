@@ -10,7 +10,7 @@
 | Marcus | Movement and security evidence he independently develops | Chelsea identity and Jack's full fire-risk conclusion |
 | Anton | Key mechanics after inspection | Chelsea identity, AM Advisory |
 | Reese | Assigned access problem; shaft route | Chelsea identity; full fire-risk conclusion; Addison |
-| Chelsea | Ledger existence, location, cleanup plan probable; plan she built with Stephen; that Stephen did not commit suicide | Who exactly took Stephen and how; whether she is under active surveillance; Jack, the crew, AM Advisory |
+| Chelsea | Ledger existence and location; plan she built with Stephen; that Stephen did not commit suicide (reasoned from the shape of the night and morning, not from live evidence) | Who took Stephen, how, on whose authorization; whether she is under active surveillance; Jack, the crew, AM Advisory |
 | Hattie | Jack's prior disciplinary matter; visitor record; unavailable originals | Permanent crew, exact mission, Chelsea, Addison's hidden role |
 | Tomas | Stephen discovery, framing, cleanup plan, Jack's public history | Full crew, exact infiltration plan, Chelsea's collaboration |
 | Rylan | Operational security, Stephen staging, surveillance, cleanup | Full crew identities and complete plan, Chelsea's collaboration |

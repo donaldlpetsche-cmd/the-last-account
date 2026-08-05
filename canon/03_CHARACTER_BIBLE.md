@@ -365,7 +365,9 @@ Stephen's internal collaborator at Weaver, Newman & Gaines. Mapped POV for Book 
 
 **Prior relationship with Stephen:** the two collaborated quietly for approximately eight weeks before the prologue. Chelsea placed a deliberate audit inconsistency in a report as bait for anyone attentive enough to see it. Stephen saw it. He approached her. Together they reconstructed enough of the underlying pattern to conclude the operational record lived in the original vault's document-control cabinet.
 
-**Prologue role:** she built and ran the temporary building-access window from home during Stephen's entry through a cryptic status utility that carried data only — no audio, no video. She and Stephen had prearranged a benign one-word text he would send by 6:15 a.m. the morning after to confirm he had gotten out. It did not come.
+**Prologue role:** her contributions to the entry are administrative rather than technical. She added Stephen's badge to the facilities whitelist months earlier under an audit-test cover, confirmed Tomas's six-digit code with him privately, pulled the archived renovation permit that let them reconstruct the vault's interior layout, and provisioned a simple cryptic messaging utility across their personal devices for a single one-word confirmation text. She has no live visibility into the vault or building during the entry.
+
+Because a text sent overnight would be conspicuous on Stephen's phone record if anyone later looked, Chelsea and Stephen agreed he would send nothing until his ordinary waking hour. The one-word text — *Home* — was to arrive by 6:15 a.m. It did not.
 
 **Key protocol:** Chelsea recovered the old key during her involvement in Edward Hollister's post-mortem file wind-down and placed it in a yellow envelope beneath the bottom drawer of Hollister's desk with fresh adhesive. Stephen found it in the ordinary course of his own participation in the wind-down. Chelsea and Stephen never discuss the key directly at any point. Everything else about the plan they discussed openly.
 

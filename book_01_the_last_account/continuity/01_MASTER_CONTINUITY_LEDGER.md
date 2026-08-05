@@ -21,33 +21,37 @@ Exact calendar dates are not yet locked. Use relative time until a master calend
 - Checks the alarm.
 - Makes calls outside his ordinary pattern.
 - Continues making future plans.
-- Chelsea creates a temporary access and camera window through a maintenance utility loaded on a legitimately provisioned facilities credential. The link is data-only cryptic telemetry with short text messaging in either direction. It carries no audio and no video. On session termination the link and its logs auto-purge from Chelsea's end.
+- Chelsea is at home. She has no live visibility into the vault or the building during Stephen's entry. Her only channel to Stephen is a simple cryptic messaging utility across their personal devices, intended for a single one-word confirmation text after he is clear.
 - Stephen enters the Boston Mercantile Trust after hours.
-- Uses legitimate WNG credentials, Tomas Weaver's code, the biometric palm reader, and the old key.
+- Uses his legitimate badge (added by Chelsea to the facilities whitelist months earlier under audit-test cover) to open the bank-officers' stair door.
 - Descends via the preserved bank-officers' stair from the executive corridor directly to the vault level.
-- Photographs the handwritten ledger (non-sequential order, two frames per page per Chelsea's protocol).
+- Enters Tomas Weaver's six-digit code at the vault keypad.
+- Opens the old wheel.
+- Uses the old key to open the internal document-control cabinet.
+- Photographs the handwritten ledger (non-sequential order, two frames per page).
 - Drafts a message to Avery on his phone (locked wording per object chain). Attaches one ledger image. Does not send. No signal in the vault.
-- Chelsea, monitoring from home, sees a vault security-policy change fire from an admin console. She pushes MOVE. SECURITY CHANGE. into Stephen's session.
-- The vault access panel begins to cycle from outside.
-- Stephen slits the briefcase lining with a fingernail, jams the key through the gap, presses the fabric flat.
+- The vault access panel begins to cycle from outside. Stephen does not know who is at the door and Chelsea has no visibility to warn him.
+- Stephen works the old key through the pre-existing split in the bottom seam of his document case's lining and pushes it beneath the rigid base panel.
 - Pockets the phone.
 - Walks toward the door composed.
 - Rylan enters. Cover exchange fails in one round.
 - Stephen tries to break past. He is knocked unconscious three or four strides from the door.
-- Chelsea's session terminates fourteen seconds after her MOVE alert, without Stephen's sign-off.
-- Stephen's phone is taken into Rylan's custody. The photographs and the drafted message die with the device.
+- Rylan searches the case, retains the phone and the laptop, returns the case and other personal effects to the effects chain. The key remains under the base panel.
 - Stephen's car leaves the surface lot at 1:12 a.m. with an unidentified driver.
 - Car is staged in the Weaver Newman garage.
 - Official cause becomes carbon monoxide.
 - Vehicle is discovered at 5:41 a.m.
 - Ortega contacts Rylan before 911.
+- The phone is not returned to Avery; the family is told it was not recovered.
 
 ### Morning after the entry (Prologue Part II)
 
-- Chelsea's prearranged 6:15 a.m. check-in text does not arrive.
+- Chelsea and Stephen had agreed no message would be sent overnight because a message on Stephen's phone at an unusual hour would read as anomalous to anyone later reviewing the records. The one-word confirmation text — *Home* — was to arrive by 6:15 a.m.
+- The text does not arrive.
+- Chelsea waits at the studio in her building. She dresses at 6:44 and drives to work.
 - Chelsea arrives at WNG at her ordinary hour and takes her desk from approximately 7:30 a.m.
 - The news of Stephen's death moves through the floor by mid-morning. The word *suicide* is understood in the pauses.
-- Chelsea holds professional composure. She replays the previous night's telemetry in her head and understands what happened.
+- Chelsea holds professional composure. She reasons her way to what happened from the shape of the day: Stephen was in the vault last night executing a plan they had built; the check-in never came; Stephen had future plans and was not suicidal; someone in the firm reached him before he was clear. She does not know who and does not know how.
 - She takes no action. She does not signal. She does not contact Avery. She continues to work.
 - At 9:47 a.m. she watches Rylan cross the floor toward Tomas Weaver's office.
 

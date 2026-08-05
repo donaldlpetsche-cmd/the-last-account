@@ -7,9 +7,9 @@
 3. Recovered by Chelsea Boone during the wind-down of Hollister's files following his death. She placed it in a yellow envelope, taped the envelope beneath the bottom drawer of Hollister's desk with fresh adhesive, and left the office undisturbed.
 4. Found by Stephen approximately six days before the prologue night, in the ordinary course of his participation in the associate rotation closing out Hollister's client-file transitions. Stephen understood the signal. Chelsea and Stephen never discuss the key directly.
 5. Used by Stephen the night of the prologue to open the internal cabinet in the original vault.
-6. Hidden by Stephen in his briefcase lining immediately after he hears the vault access panel begin to cycle from outside. Stephen slits the lining with a fingernail in the moment. There is no pre-existing tailor-made slot; the improvisation is desperate and visible in the finished cut.
-7. Found by Avery in the briefcase lining after Stephen's death.
-8. Given by Avery to Jack during Chapter 1.
+6. Hidden by Stephen the moment he hears the vault access panel begin to cycle from outside. Stephen's document case is an older, well-used piece he has been meaning to have repaired; the interior lining is already split along a short section of its bottom seam. Stephen works the key through the pre-existing split with a fingernail and pushes it beneath the rigid base panel of the case until pressing the lining reveals nothing but leather and board. The concealment is search-resistant to surface inspection.
+7. Rylan searches the case after Stephen is intercepted. He finds the ordinary contents of an associate's work bag (legal pad, sharpened pencils, financial calculator, company laptop, phone). He retains the laptop and the phone. He returns the case to the personal-effects chain along with Stephen's other belongings; nothing in the case reads as evidentiary. The key remains under the base panel.
+8. The case reaches Avery with Stephen's returned personal effects. She does not initially find the key. Over the days that follow, the pre-existing split in the seam expands as she handles the case, and the key eventually works loose enough that Avery discovers it. She gives it to Jack in Chapter 1.
 9. Examined by Anton in Chapter 4.
 10. Retained securely by crew until gala operation.
 11. Used by Anton in Chapter 23 to open the ledger cabinet.
@@ -29,7 +29,7 @@
 
 ## Stephen's ledger photographs
 
-Stephen photographs ledger pages in the prologue on his personal phone, non-sequentially and two frames per page per Chelsea's protocol. The vault has no cellular signal; the images cannot leave the device from inside the vault. Stephen is knocked unconscious before he exits the vault. His phone is taken into Rylan's custody as part of the staging that follows. The photographs die with the phone and never reach Avery, Chelsea, or Jack.
+Stephen photographs ledger pages in the prologue on his personal phone, non-sequentially and two frames per page per the discipline he and Chelsea agreed on in planning. The vault has no cellular signal; the images cannot leave the device from inside the vault. Stephen is knocked unconscious before he exits. His phone is taken by Rylan as part of the staging that follows. The phone is never returned to Avery — the family is told it was not recovered. The photographs die with the phone and never reach Avery, Chelsea, or Jack.
 
 **Continuity rule:** the ledger images are not in play as evidence in Book One until the physical ledger is recovered in Chapter 23. Do not resurrect the phone.
 

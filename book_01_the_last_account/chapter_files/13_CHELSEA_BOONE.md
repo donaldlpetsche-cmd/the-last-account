@@ -6,7 +6,9 @@
 
 ## Approved chapter purpose
 
-Chelsea confirms the handwritten ledger is in the original vault, Stephen was framed, and the gala is being used to destroy the evidence. Jack protects Chelsea’s identity from the crew while extracting the operational facts.
+Chelsea confirms the handwritten ledger is in the original vault, Stephen was framed, and the gala is being used to destroy the evidence. Jack protects Chelsea's identity from the crew while extracting the operational facts.
+
+Because the reader has known Chelsea since the prologue, this chapter is not a reveal of her existence. Its suspense is Jack's discovery and the questions Chelsea has been carrying for seven weeks: Will Jack find her before Rylan realizes she was Stephen's collaborator? Will she trust him enough to speak? Has the firm been watching her? What has she done and refused to do during the seven intervening weeks, and what has that stillness cost her? Structure the chapter around those questions, not around introducing her.
 
 ## Closing hook
 

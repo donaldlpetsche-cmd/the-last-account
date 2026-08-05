@@ -89,10 +89,17 @@ Book One's primary operational location. The building's layered historic and mod
 
 The original vault door was preserved and remains mechanically functional (seven-foot restored steel, brass wheel). A modern access layer was added during the WNG restoration:
 
-- Six-digit keypad beside the door, keyed to a small authorized-user set including senior partners.
-- Biometric palm reader below the keypad, secondary factor.
-- Ceiling camera above the door with a small red indicator; feeds to building security.
-- Corridor motion sensor midway down the bank-officers' stair.
-- Access logs escalate to a monitored console after posted business hours unless a scheduled maintenance window has been opened.
+- Six-digit keypad beside the door, keyed to a small authorized-user set that includes senior partners and a facilities backup list.
+- Ceiling camera above the door; feeds to building security.
+- Access logs record vault entries and are reviewed on an after-the-fact basis by building security. There is no live alerting inside the firm's ordinary operational hours or after them unless the door is forced.
 
-Chelsea Boone's temporary access window during the prologue used a legitimately provisioned facilities credential to load a maintenance utility that ran a camera loop, bypassed the corridor sensor, and opened an access window during which the keypad would accept Tomas Weaver's code without escalating an alert. The utility carried data only — no audio, no video. It streamed status telemetry to Chelsea and could deliver short text messages in either direction. On session termination the link and its logs auto-purged from Chelsea's end.
+### Chelsea Boone's contributions to Stephen's entry
+
+Chelsea's role in the prologue is not technical live-monitoring. Her contributions are the kind of quiet administrative acts an internal systems auditor can plausibly commit and defend:
+
+- She added Stephen's badge to the facilities whitelist months earlier, under cover of a documented audit test, so his badge would open the bank-officers' stair door.
+- She and Stephen together identified when Tomas Weaver had used his six-digit code in Stephen's presence and confirmed it privately.
+- She and Stephen reconstructed the internal vault layout from an archived renovation permit she pulled through her ordinary systems access.
+- She provisioned a simple cryptic communication utility across their personal devices for short pre-arranged messages. The utility is not live telemetry. It cannot show her what Stephen is doing inside the vault. Its only intended use for the prologue night is a single one-word confirmation text — *Home* — that Stephen was to send to Chelsea after he was clear of the building.
+
+Chelsea did not loop cameras. Chelsea did not bypass sensors. Chelsea did not run an admin console. During Stephen's entry Chelsea has no visibility into the vault, the corridor, or the building. She is at home waiting for the text.

@@ -1,32 +1,68 @@
 # Prologue — The Account
 
-**Draft:** v3
+**Draft:** v4
 **POV:** Stephen Bentley (Part I); Chelsea Boone (Part II)
 **Register:** A dominant throughout; C for Chelsea's office setting
-**Target:** ~2,000 words (Stephen ~700; Chelsea ~1,300)
+**Target:** ~2,000 words (Stephen ~800; Chelsea ~1,200)
 **Status:** Chat draft for review
 
 ---
 
 ## Part I
 
-Stephen closed the cabinet and turned the key and the vault access panel outside began to cycle.
+The ledger was heavier than Stephen had expected.
 
-He heard the tone. He heard the small hydraulic sigh the modern lock made when it accepted a code. He heard the old wheel start to move.
+He carried it from the cabinet to the low table beneath the vault lights and set it down and unhooked the strap. The cloth binding was worn to gray at the corners. There was no title on the spine. The paper inside was the good kind, cotton stock, the kind that outlasts the people who write on it.
+
+He opened it.
+
+The entries were handwritten in black ink. Each line began with a date, a client code, a transaction reference, and an amount. A short description filled the final column.
+
+He read the first page twice.
+
+*C-1187. Regulatory withdrawal. Son's tuition and appointment secured.*
+
+He recognized the client. He recognized the outcome. The public record had never shown it this way.
+
+He turned the page.
+
+*M-4421. Municipal objection resolved. Payment through redevelopment counsel.*
+
+*W-9003. Former employee contained. Substance history established. Custody concern introduced.*
+
+*P-7710. Civil witness corrected before deposition.*
+
+Stephen felt the first hard beat of panic under his ribs.
+
+He turned pages. Names he knew. A dead investment manager. A federal docket marked with a single tick. And on a page from five years back, twice on one page and again on the next, in the same narrow disciplined hand, one word.
+
+*Arranged.*
+
+He had expected bribery. Political payments. The kind of book that brings regulators down on a firm before the firm understands what has happened.
+
+This was not that book.
+
+He took out his phone.
+
+He photographed non-sequentially the way they had agreed, two frames per page against blur. His hands shook enough that the third image failed and he took it again. He worked the pages that carried the worst words. *Arranged.* *Terminated.* *Permanent.*
+
+He closed the ledger and carried it back to the cabinet and set it on the shelf and closed the doors and turned the key.
+
+He was straightening from the cabinet when he heard it.
+
+The tone. The small hydraulic sigh the modern lock made when it accepted a code. The old wheel starting to move.
 
 He looked at the key in his palm.
 
-The document case sat on the outer table three steps away. He crossed to it and opened it and put his thumbnail against the seam where the interior lining met the frame and pressed until the stitching gave. It gave easier than he had expected. He worked the nail along an inch of thread and pushed the key through the gap and pressed the fabric flat and closed the case. From two feet away the case was a case.
+The document case sat on the outer table three steps away. He crossed to it and opened it and put his thumbnail against the split in the bottom seam where the interior lining had been coming loose for a year. He worked the split wider by an inch. He pushed the key through into the space beneath the rigid base panel and felt it slide, and then it was gone. He pressed the lining flat. He closed the case.
 
-He took the phone from his jacket. The message he had drafted in the garage was still open. One image was still attached. The signal bars were still empty.
-
-He put the phone back in the inside pocket of his jacket.
+He took the phone from his jacket. The draft was still open. The signal bars were still empty. He put the phone back in the inside pocket.
 
 He picked up the case.
 
 The old wheel completed its quarter turn.
 
-He set his shoulders and walked toward the door. He had six years of walking toward doors composed. He put a version of that face on now and drew a breath and told himself the story he was about to tell.
+He knew how to walk toward a door without showing what waited behind it. He put a version of that face on now, and he drew a breath, and he told himself the story he was about to tell.
 
 The vault door swung inward.
 
@@ -64,7 +100,7 @@ Something took him behind the ear.
 
 The vault floor came up faster than he had time to understand.
 
-His last clear thought was of the seam in the lining of the case, and the key inside it, and how ordinary the case would look sitting beside him on the floor.
+His last clear thought was of the split in the lining of the case, and the key beneath the base panel, and how ordinary the case would look sitting beside him on the floor.
 
 ---
 
@@ -74,9 +110,9 @@ Chelsea Boone reached her desk at 7:32 a.m. and set her coffee down and opened t
 
 Her phone lay screen up beside the keyboard. The last message on it was from her sister, from Tuesday, about a birthday. Nothing had come in since 11:41 the night before.
 
-The prearranged text had been supposed to arrive by 6:15. One word. *Home.* That was all. She had told Stephen she did not want anything more than that.
+The confirmation text had been supposed to arrive by 6:15. One word. *Home.* That was all. They had agreed nothing would move overnight because a text at three in the morning would read as strange to anyone later looking at the record, and Stephen had a wife who slept lightly, and the whole point of the discipline was that nothing about Chelsea would ever appear in the shape of the night.
 
-She had waited for it in the kitchen with the lights off from 5:40 until 6:44 and had then dressed and driven to work.
+She had waited for it at the studio in her building — not the apartment, because whatever happened that night she had not wanted happening in the room where she slept — from 5:40 until 6:44. She had dressed and driven to work.
 
 She opened her email. She replied to a note about a Q3 reconciliation. She adjusted a column width. She did not look at her phone.
 
@@ -104,47 +140,25 @@ His wife, someone said, and did not finish.
 
 Chelsea put the cup down and went back to her desk.
 
-She opened the spreadsheet again and looked at it without seeing it and let her head do what she had not let it do in the kitchen.
+She opened the spreadsheet again and looked at it without seeing it.
 
-She had watched him from her apartment. She had not gone home to her apartment; she had gone to the studio in her building that she rented under a second name because she had known that whatever happened tonight she did not want happening in the room where she slept. She had set her laptop on the desk at 9:20 and opened the utility and watched the green status lines come up one by one.
+Nothing had told her what had happened last night. There had been no window into the vault, no telemetry, no channel that could reach her from behind seven feet of restored steel. There had been the plan they had built over eight weeks and there had been the silence of a phone that should have chimed at ten past six.
 
-CAMERA LOOP: ACTIVE.
+She had known, sitting on the couch at the studio at 6:16, that something was wrong. She had not let herself know it. She had let herself count the ordinary reasons a message could be late until she reached the end of the ordinary reasons at 6:44 and then she had put on the clothes she had laid out the night before and gone to work.
 
-CORRIDOR SENSOR: BYPASSED.
+Now she reasoned it.
 
-VAULT ACCESS WINDOW: 08:12.
+Stephen had gone into that vault at nine-fifty. Stephen had future plans. Stephen had a wife he was planning to take to Rome in October and a chairmanship of the bar association's ethics committee he was quietly not turning down and a review of Hollister's remaining files he had been three-quarters of the way through. Stephen had not driven himself into the WNG garage at any hour of the morning and run a hose from a tailpipe. Stephen had not sat in a running car until he stopped breathing.
 
-She had watched the countdown.
+Someone in the firm had reached him.
 
-She had watched the palm-reader event fire green at 9:52. She had watched the vault-door telemetry register OPEN at 9:53. She had watched the interior sensor she had also bypassed report nothing for four minutes and then report the small pressure change of the internal cabinet lock releasing. She had watched him work.
+She did not know who. She did not know how. She did not know whether he had died in the vault or in the garage or between the two.
 
-At 10:07 an event she had not built had appeared in her console.
-
-VAULT ACCESS: POLICY OVERRIDE. USER: T. WEAVER (ADMIN).
-
-She had understood it in the second it took to appear. Someone at an authorized admin console had escalated the vault access permissions from Tomas's account. Not Tomas. Tomas was at the Fenway thing and had been photographed there at 9:40. Someone with Tomas's credentials.
-
-She had pushed the alert.
-
-MOVE. SECURITY CHANGE.
-
-She had watched the session for fourteen seconds.
-
-At 10:07:14 the utility had reported SESSION TERMINATED. NO SIGN-OFF.
-
-The link had auto-purged. Her end of it had disappeared clean.
-
-She had sat with her hand on the laptop for a long time. She had told herself he had gotten out. She had made herself believe it in one-minute increments until 4:00 a.m., when she had lain down on the studio couch without undressing and waited for a phone to make a sound it did not make.
-
-At her desk now, at 9:31 a.m., she understood what she had been watching.
-
-The policy override had been Rylan. Rylan on Tomas's credentials at an admin console. Rylan opening the vault from outside while Stephen was still in it. Rylan intercepting him at the door. She did not know what came after that and she did not need to know. Stephen had not driven himself into the WNG garage at any hour of the morning. Stephen had not run a hose from a tailpipe. Stephen had not sat in a running car until he stopped breathing.
-
-Stephen had been put there.
+What she knew was that he was dead, and that she was the only person in the building who understood that the death was a lie, and that whoever had made the lie was somewhere in the building right now deciding what else needed cleaning.
 
 She kept her hands on the keyboard.
 
-She thought about Avery. She thought about the small back-steps photograph on Stephen's lock screen and the sound of his voice the one time he had mentioned her by name in this office and how careful he had been not to. She thought about calling her from a pay phone she would have to find, and about what a phone call from a stranger would do to a woman who had woken up to a knock at the door, and about what a phone call from a stranger would do to Chelsea's own next six hours if the wrong person were watching the wrong line.
+She thought about Avery. She thought about the back-steps photograph on Stephen's lock screen and the sound of his voice the one time he had mentioned his wife by name in this office and how careful he had been not to. She thought about calling from a pay phone she would have to find. She thought about what a phone call from a stranger would do to a woman who had woken up to a knock at the door. She thought about what a phone call from a stranger would do to Chelsea's own next six hours if the wrong person happened to be watching the wrong line.
 
 She did not reach for her phone.
 
@@ -152,11 +166,9 @@ She opened a folder titled Q3 EXCEPTIONS and closed it and opened it again.
 
 The audit inconsistency she had placed eight weeks ago sat two rows down on the exception list. It had brought Stephen to her office on a Thursday afternoon in September with a printout in his hand and a question in his face he had not spoken out loud. It was still there. It would keep. It had been designed to keep.
 
-She would not add another. Not now. Not while whoever had opened that vault door was somewhere in this building deciding what else needed cleaning.
+She would not add another. Not now. Not while whoever had reached Stephen was somewhere in this building deciding what else was loose.
 
-She would do her job. She would answer email. She would eat lunch at her desk. She would leave at her ordinary hour. She would go back to the studio in her building and not to the apartment. She would not turn on the laptop. She would not open the utility she had already purged.
-
-She would wait.
+She would do her job. She would answer email. She would eat lunch at her desk. She would leave at her ordinary hour. She would go back to the studio and not to the apartment. She would wait.
 
 At 9:47 a.m. a shape moved in her peripheral vision along the far side of the floor.
 
@@ -170,23 +182,27 @@ She did not type.
 
 ---
 
-*End prologue draft v3. Approximately 1,990 words.*
+*End prologue draft v4. Approximately 1,970 words.*
 
 ## Flags for review
 
-- **[AI-FLAG: adjacent length parity]** — *"CAMERA LOOP: ACTIVE. / CORRIDOR SENSOR: BYPASSED. / VAULT ACCESS WINDOW: 08:12."* Three telemetry lines rendered as three paragraphs. Deliberate echo of Stephen's operational screen. Confirm the repetition reads as memory, not authorial rhythm.
 - **[AI-FLAG: closing beat symmetry]** — Final beat pairs *"The cell was ready to accept whatever she typed next."* with *"She did not type."* A one-sentence beat of not-doing. Kept because the whole prologue's second half turns on Chelsea's choice to do nothing. Confirm.
-- **[AI-FLAG: interior-summary]** — *"She had understood it in the second it took to appear."* Brief epiphany narration. Kept because Chelsea's professional reading of the console is a competence beat, not a reflective one. Confirm.
+- **[AI-FLAG: interior-summary]** — *"Now she reasoned it."* Marks a transition into Chelsea's chain of deduction. Kept because the paragraphs that follow are her reasoning and the marker gives them a beat, but confirm the transition doesn't read as narrator scaffolding.
+- **[AI-FLAG: adjacent length parity]** — Several ledger-entry paragraphs render as isolated italicized lines with parallel grammar (*C-1187…* / *M-4421…* / *W-9003…* / *P-7710…*). Deliberate echo of the ledger's own format. Confirm the repetition reads as the object rather than as authorial rhythm.
 
 ## Continuity checks
 
-- POV: Stephen throughout Part I; Chelsea throughout Part II. No head-hopping.
-- Register: A dominant throughout. Chelsea's office setting reads C on the surface (professional composure at WNG) with A running underneath (operational replay).
-- No em dashes. No semicolons.
-- Key hidden by fingernail slit, not tailor, per updated canon.
-- Chelsea's link is data-only per updated canon (no audio, no video). The "who else have you told" line said in the vault does not appear here; Chelsea does not hear it.
-- Prearranged 6:15 a.m. check-in was one word: *Home.*
-- Vault security-policy override fired on Tomas's credentials from an admin console; Tomas was at a Fenway function at the time. This gives Chelsea her conclusion (Rylan on Tomas's credentials) and preserves Tomas's off-page alibi for the moment of interception.
-- Chelsea's studio in her building, rented under a second name, is a new detail. Small canon addition — confirm and I'll add to the Character Bible entry for Chelsea if you agree. If you'd rather she monitored from her actual apartment, easy revision.
-- Closing hook: Chelsea watches Rylan cross toward Tomas's office at 9:47 a.m. and does not act.
-- Stephen's photographs and drafted message die on the phone in Rylan's custody.
+- Stephen tenure reference removed. No numeric years attached to Stephen's cover-carrying skill.
+- Chelsea location contradiction fixed. She was at the studio in her building, not the apartment, from the start.
+- 6:15 a.m. check-in explained in the prose (overnight text would look strange on Stephen's record; the discipline is that Chelsea's shape does not appear in the night).
+- Chelsea has no live telemetry. She "watched" nothing during the entry. Her POV replays the plan and the silence, not sensor data.
+- The sensor-bypass and admin-console material is gone. Chelsea does not identify Rylan by evidence in the prologue; she reasons her way to *someone in the firm* and stops there.
+- No "Fenway thing" placeholder.
+- Key concealment updated per canon: pre-existing split seam, pushed beneath the rigid base panel. The case looks ordinary on the floor beside Stephen.
+- Palm reader removed from canon vault access; the vault opens on Tomas's code plus the old wheel.
+- The Ledger discovery/comprehension is now the opening beat of Part I. What Stephen risked his life for is on the page before the interruption arrives.
+
+## What Ch. 1 and Ch. 13 now need
+
+- **Ch. 1**: Avery's photograph is Stephen's earlier scouting shot of the internal cabinet (already updated). No ledger images reach her. Add: Stephen's phone was not returned; she found the key by handling the returned case over the days that followed as the pre-existing split seam expanded.
+- **Ch. 13**: chapter file updated to note the reader-ahead-of-Jack dynamic. Suspense is now trust, safety, and what Chelsea has done during the seven-week silence — not her existence as a reveal.
