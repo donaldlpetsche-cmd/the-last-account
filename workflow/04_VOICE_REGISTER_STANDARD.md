@@ -4,7 +4,9 @@
 
 The Jack Mallory Series holds three tonal traditions inside one prose voice: the operational gravity of *Heat*, the ensemble warmth of *Leverage*, and the elite charisma of *White Collar* and *Suits*. These three do not naturally cohabit inside a single paragraph. The series manages them by scene register.
 
-Every scene operates in exactly one register. Register is decided immediately after POV and drives paragraph shape, sentence length, dialogue density, interior-monologue budget, and the character who carries charm.
+Every scene has one dominant register, decided immediately after POV. The dominant register drives paragraph shape, sentence length, dialogue density, interior-monologue budget, and the character who carries charm. But the register is *dominant,* not *exclusive.* Every scene must earn its humanity somewhere. A scene that obeys the register perfectly and fails to breathe is a failed scene.
+
+**Every scene must contain at least one moment of human weight** — a small physical act of care, a memory that catches a character mid-sentence, a silence where two people see each other, a moment of unexpected warmth, sharpness, or vulnerability. In Register A that moment may be brief and stolen. In Register B it may be constant. In Register C it may be the beat that lifts the whole scene above transactional exchange. The scene decides where and how, but the moment must be there.
 
 ## Register A — Operational
 
@@ -96,6 +98,45 @@ Common transition patterns:
 - **B → C**: a crew member steps into a false persona for a room. Register shifts as they cross the threshold, not before.
 
 A chapter should not oscillate more than twice between registers. Register whiplash reads as tonal instability.
+
+## The three DNAs — concrete craft techniques
+
+### Leverage warmth — the family that shows love sideways
+
+Not: characters telling each other they matter. Not: warmth stated by the narrator. Not: sitcom banter.
+
+Do:
+
+- Small physical acts of care that go unremarked. Someone pours the second cup. Someone moves a chair closer to the window. Someone hands over a coat without breaking the conversation.
+- In-jokes and shorthand that the reader is not walked through. Trust the reader to catch up.
+- Food, drink, hands, shoulders — the small currency of family, rendered without narration.
+- One character noticing another and doing something small in response. This should happen in every crew scene, at least once.
+- Humor as protective texture. Dry. Character-specific. Never sitcom.
+
+### Heat gravity — adults who see each other
+
+Not: coldness. Not: absence of feeling. Not: refusal of interior.
+
+Do:
+
+- Long silences that carry weight. The city outside the window. Coffee going cold.
+- Adult mutual recognition between characters, including adversaries. A moment where the case stops mattering and two people just look at each other.
+- Consequences that persist. Injuries that stay. Damage that does not heal on the page.
+- Weather and geography treated as real, not atmospheric.
+- Restraint that reveals rather than suppresses. What is not said carries more than what is.
+
+### White Collar / Suits charm — smart people meeting smart people
+
+Not: filler wit. Not: everyone charming at once. Not: monologues.
+
+Do:
+
+- Precise, cordial dialogue that carries subtext. Every line does work for character or leverage.
+- Institutional and aesthetic specificity: this vintage, this maker, this school, this case citation, this deal terminology. Named because the character notices, not because the narrator decorates.
+- A line in every C scene that is quotable — a sentence the reader wants to write down.
+- Wit under pressure. Elegance in dialogue even inside grief or danger.
+- Aesthetic pleasure rendered credibly. The sensory richness of an elite room, felt by the POV who knows what it costs.
+- Recognition between smart people, and the room registering it.
 
 ## Distributed charm doctrine
 

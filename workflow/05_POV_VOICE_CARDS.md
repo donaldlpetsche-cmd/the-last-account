@@ -4,7 +4,9 @@
 
 Each viewpoint character has a locked interior voice. In a blind read, a reader should identify the POV within two paragraphs.
 
-Each card specifies: what the character notices first in a room, how they measure time, native metaphors, what they never think in words, sentence tendencies, silences, and dialogue tics.
+Each card specifies: what the character notices first in a room, how they measure time, native metaphors, what they never think in words, **their emotional range when the moment earns it,** sentence tendencies, silences, and dialogue tics.
+
+The *never-in-words* section is a restriction list. The *emotional range* section is a permission list. A character defined only by what they will not say reads as clinical. Every POV must also carry the range of what they *do* say and think when the scene calls for it — the warmth, tenderness, wit, sharpness, memory, and vulnerability that make them human.
 
 Voice cards are authoritative. When a chapter draft conflicts with the card, the card wins unless a scene-specific reason is documented in the acceptance record.
 
@@ -19,6 +21,7 @@ Voice cards are authoritative. When a chapter draft conflicts with the card, the
 - **Measures time by:** what needs to happen before the next move, and how long a person can be pressured before they change posture.
 - **Native metaphors:** legal, structural, and mechanical. He thinks in leverage, standing, cause of action, load-bearing walls, torque.
 - **Never in words:** the word *love*. The words *my family*. Any direct statement of fear. Any admission that Matthew's departure still moves him.
+- **Emotional range:** Jack is warm when the person in front of him earns it. He offers condolence without sentiment. He notices grief and does small things about it — moves a chair, refills a cup, sits down rather than remaining standing, waits. In Register C rooms his charisma is fluent and generous; the room feels lit when he chooses to light it. His restraint is a choice he makes moment by moment, not a default operating mode. When he softens his voice, characters register the shift as significant.
 - **Sentence tendencies:** clean, measured, slightly formal. Complete sentences even under load. He does not think in fragments; he thinks in sequences.
 - **Silences:** long, deliberate, and often the loudest thing on the page. Jack uses silence in dialogue as a tool.
 - **Dialogue tics:** understated. Asks the smaller question first. Never raises his voice. When he softens, the crew notices.
@@ -103,7 +106,8 @@ Voice cards are authoritative. When a chapter draft conflicts with the card, the
 - **Measures time by:** what Stephen used to do at this hour.
 - **Native metaphors:** literary and observational. She reads people the way she reads a paragraph.
 - **Never in words:** the word *widow*. Anything sentimental about Stephen. Any admission that she is frightened.
-- **Sentence tendencies:** composed, careful, slightly literary. Sentences slightly longer than Jack's. Grief renders as precision, not fragmentation.
+- **Emotional range:** the composure is armor over a woman who loved a man and lost him and is angry about it in ways she has not permitted herself to name. Underneath the precision she can be tender, sharp, funny, and briefly cruel. She has memories of Stephen that catch her mid-sentence — a hand on a countertop, a laugh from another room, the way he mispronounced a word she never corrected. She permits herself, at rare intervals, something at the edge of a smile that stays at the edge and does not move. She is capable of a small quotable line that surprises the person she is speaking to. Her composure cracks in specific physical ways: a hand that does not quite steady around a cup, a breath she has to take and then take again, a moment where she has to stop and look out a window before she can continue.
+- **Sentence tendencies:** composed, careful, slightly literary. Sentences slightly longer than Jack's. Grief renders as precision, not fragmentation — but the precision must feel like a woman holding herself together, not like a witness giving evidence.
 - **Silences:** used deliberately. Avery has learned in seven weeks that saying less gets her more.
 - **Dialogue tics:** answers questions with questions when she does not yet trust the asker. Uses first names carefully.
 - **Book One arc constraint:** she is not a client to be protected. Her POV, when used, should establish her as a person Jack underestimates at his cost.
@@ -119,7 +123,8 @@ Voice cards are authoritative. When a chapter draft conflicts with the card, the
 - **Measures time by:** the countdown Chelsea has given him and the minutes remaining on the access window.
 - **Native metaphors:** accounting. Balance, reconciliation, entry, ledger, close.
 - **Never in words:** the word *dead*. The word *murder*. Avery's name spoken in his head as a plea.
-- **Sentence tendencies:** short, procedural, controlled. Fear renders through physical detail: sweat, shake, blurred photo, breath.
+- **Emotional range:** Stephen's interior is a decent, frightened man doing something he does not know how to do because he believes he must. He carries specific images of Avery — the back-steps photograph on his lock screen, the way she wraps her hands around a mug, the sound of her laugh from another room. These images move him. He permits them briefly and puts them away. When the ledger's worst words land on him he registers them through his body: the beat under the ribs, the wet under the arms, a moment where his hand steadies because he thinks of his wife alone in a house at four in the morning. His fear is real. His resolve is real. Both are on the page.
+- **Sentence tendencies:** short, procedural, controlled. Fear renders through physical detail: sweat, shake, blurred photo, breath. But the human weight of what he is doing must land somewhere before the door opens.
 - **Silences:** used as concealment. Stephen listens for footsteps more than he thinks.
 - **Dialogue tics:** the practiced cover story. "Quarter-end." "Weaver wants the exhibits by seven." Cover fluency is a character trait, not a plot device.
 
@@ -134,7 +139,8 @@ Voice cards are authoritative. When a chapter draft conflicts with the card, the
 - **Measures time by:** minutes past a prearranged check-in, retention windows, quarter closes, the ordinary rhythm of an office morning.
 - **Native metaphors:** systems and controls. Exception, reconciliation, integrity, log, purge, chain of custody.
 - **Never in words:** Stephen's name spoken aloud after the prologue. The word *friend* about him. The word *afraid* about herself. Any direct statement of what she and Stephen were doing.
-- **Sentence tendencies:** precise, controlled, professionally fluent. Complete sentences. Under strain the fluency tightens further rather than breaking.
+- **Emotional range:** the professional composure is armor over grief, fear, and a specific protective anger for a man who was her friend and whose wife is now a widow because Chelsea helped him do what he did. She can be tender in memory, quietly furious in private, and briefly funny in the wrong moments. She has physical grief markers she does not name — a hand she keeps busy with a pen, a coffee she does not drink, a spreadsheet she keeps opening for the smell of routine. She thinks of Stephen in specific images: the way he laughed once at a joke that was not funny, the sweater he wore to a client dinner nobody had told him was formal, the printout he brought her that Thursday afternoon in September. She permits herself these images in her POV. She does not permit them on her face.
+- **Sentence tendencies:** precise, controlled, professionally fluent. Complete sentences. Under strain the fluency tightens further rather than breaking. But the precision must feel like a woman holding herself together, not like a status report.
 - **Silences:** trained. She has been sitting on knowledge for eight weeks before the prologue and has taught herself to hold a face across a meeting.
 - **Dialogue tics:** professional courtesy. Uses proper names. Deflects with technical detail when she needs to change subject. Never volunteers information.
 - **Fear rendered through:** a spreadsheet she keeps re-formatting, a passphrase she mistypes twice, the small physical failures of a person maintaining an ordinary surface.

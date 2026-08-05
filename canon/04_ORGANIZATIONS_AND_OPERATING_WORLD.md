@@ -4,6 +4,19 @@
 
 A discreet private special-situations practice serving wealthy families, estates, closely held companies, and clients facing problems conventional firms cannot solve. It provides Jack legitimate access, income, reputation, and referrals. Exact legal entity name, staffing, and public website remain unresolved.
 
+**No client-facing office.** Jack does not maintain a professional office where clients come to him. His practice moves through his clients' world: private clubs, hotel dining rooms, restaurants, sometimes the client's home when the client insists. The choice is deliberate — an office is a fixed address and a client list on a door, and Jack's clients pay in part for the absence of both. It also means Jack goes to his clients, not the reverse, which reads as the standing of a man who does not need to prove he is available.
+
+The operating base in Chelsea (see below) is crew-only. No client has ever been inside it, and none ever will be.
+
+Common venues Jack uses in Boston:
+
+- **The Country Club (Brookline)** — old-money membership, discreet dining rooms, quiet corners on the porch in warm months. Marley Nielsen belongs. Marley often uses it for introductions.
+- **Private rooms at Boston clubs Jack has arrangements with** (Somerset, Union, Chilton where a woman member arranges it, others). Exact list unresolved.
+- **Small hotel dining rooms and private lounges** in the Back Bay and the Financial District.
+- **Client homes**, when the client's grief, illness, or preference makes travel difficult.
+
+When Jack takes a first meeting with a referred client, the venue is usually chosen by the referrer.
+
 ## Jack's residence
 
 A South End townhouse in Boston, owned by Jack Mallory in his own name. Tasteful, private, understated. Not a crew gathering place. This is the sanctuary Jack goes to when even the crew is too much. Interior details remain unresolved and should be locked before the first on-page scene set there.

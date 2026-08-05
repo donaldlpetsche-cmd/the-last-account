@@ -6,6 +6,8 @@
 
 ## Approved chapter purpose
 
+**Setting:** The Country Club in Brookline, on a Marley Nielsen introduction. Marley arranges the meeting in one of the small private dining rooms off the main dining floor, greets both, and steps away. Jack drives out from Boston. Avery arrives with Marley. The meeting is Register C dominant, with a B-adjacent human beat where the transactional exchange lifts into shared recognition. Jack does not have a client-facing office; he goes to his clients, per canon.
+
 Avery explains the eighteen-million-dollar embezzlement accusation against Stephen and his death. She gives Jack the voicemail, Stephen's handwritten notes, a photograph, and the old key she found in the slit lining of Stephen's briefcase.
 
 The photograph is one Stephen kept hidden at home in the last weeks of his life. It shows the internal document-control cabinet in situ inside WNG's original vault, taken during an earlier scouting attempt. Avery does not know what the image is of. It will mean something to Anton in Chapter 4.

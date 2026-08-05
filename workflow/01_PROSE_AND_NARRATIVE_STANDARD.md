@@ -24,7 +24,9 @@ Every scene operates in one of three registers defined in `workflow/04_VOICE_REG
 - **B — Domestic/Crew** (Leverage): found-family scenes.
 - **C — Elite/Adversarial** (White Collar/Suits): rooms where credibility is currency.
 
-The register determines paragraph shape, sentence length, dialogue density, and interior-monologue budget. Register selection is not optional; it is the first drafting decision after POV.
+The register describes *dominant* texture. It is not a straitjacket. Every scene must earn its humanity — a Register C scene must contain at least one B-adjacent human beat where the transactional exchange lifts into shared recognition. A Register A scene may hold a moment of feeling when the character can afford it. A Register B scene may sharpen into A when the outside world intrudes. Transitions within a scene are permitted and desirable when the story calls for them.
+
+Register selection is the first drafting decision after POV, but the register serves the scene, not the reverse.
 
 ## Tone
 
@@ -36,18 +38,18 @@ The register determines paragraph shape, sentence length, dialogue density, and 
 - Dry humor grounded in character.
 - Emotion carried through behavior, choice, and withheld speech more often than declaration.
 
-## Numeric and specificity default
+## Numeric and specificity — selective, character-carried
 
-When the viewpoint character would notice a measurable thing, name it.
+Specificity is a tool, not a signature. Use it when the character has a reason to hold the number in their head and when the specificity carries weight in the scene.
 
-- Times of day: `9:43 p.m.`, not "a little before ten."
+- Times of day named exactly when the character is tracking them under load, or when they are replaying a moment they have replayed many times. `4:40 a.m.` when a widow has replayed the morning of her husband's death. `9:43 p.m.` when an operator is inside a timed access window. Otherwise let the prose breathe: *a little after ten,* *the second cup,* *before lunch.*
 - Dates: relative until the master calendar is locked; then exact.
-- Durations: exact when the character is tracking them under pressure; approximate when they are not.
-- Money: to the actual figure the character knows.
-- Distances: feet, yards, blocks. Never "a short walk" when the character has walked it before.
-- Institutions, vendors, addresses, streets: named specifically. No "an expensive restaurant."
+- Durations: exact when the character is tracking them. Otherwise approximate.
+- Money: to the actual figure only when the character knows and cares.
+- Distances: exact when the character is measuring. Otherwise ordinary.
+- Institutions, vendors, addresses, streets: named specifically when the specificity does character work. Not as decorative filigree.
 
-Vague temporal or spatial phrasing is permitted only when the character genuinely does not know or is not paying attention.
+**Watch:** numeric density as a substitute for emotional texture. A widow reciting *at 4:40, at 5:13, for an hour and forty minutes, nine questions* reads as a deposition unless the prose earns each number as replay and armor. Precision without weight is bookkeeping.
 
 ## Sentence architecture
 
@@ -114,31 +116,35 @@ Charm is distributed across the crew, not concentrated in Jack. Jack is devastat
 - Do not force a symmetrical closing line that mirrors the opening.
 - Confrontational closings should be two-beat when possible: the cover fails, then the line lands.
 
-## AI-prone patterns — flag for review
+## AI-prone patterns — density is the tell
 
-Any of the following requires a review flag in the draft (inline `[AI-FLAG: reason]`) and a resolution before acceptance:
+The list below catches mechanical *habits.* A single tricolon used with weight is not a violation. Three tricolons on a page is. A single em dash in an interrupted thought is fine. Four on a page is a tic. Judge by density and pattern, not by per-instance strike.
 
-- Em dash used for stylistic emphasis rather than genuine interruption.
-- More than two em dashes on a page.
-- More than two semicolons on a page.
-- Tricolon rhythm ("X, Y, and Z" with three items of similar weight and grammar).
-- "Not this, but that" constructions.
-- "The kind of X that Y" constructions.
+Flag a pattern (inline `[AI-FLAG: reason]`) only when it is doing mechanical work in the passage rather than earning its place. The goal is to catch the AI voice, not to strip natural human writing patterns out of the prose.
+
+Patterns to watch:
+
+- Em dashes appearing every few paragraphs as a stylistic tic. A single em dash for a genuine interruption is fine. A page with more than two em dashes should be reviewed.
+- Semicolons doing the work a period could do. A page with more than two semicolons should be reviewed.
+- Tricolon rhythm ("X, Y, and Z" with three items of matched weight and grammar) recurring in a passage.
+- "Not this, but that" constructions appearing more than once in a scene.
+- "The kind of X that Y" constructions recurring.
 - Synthetic symmetry between paired sentences or paragraphs.
-- Adjacent sentences within one word of the same length.
+- Multiple adjacent passages of sentences within one word of the same length.
 - Repeated sentence openings across a passage.
-- Uniformly polished dialogue.
-- Generic emotional labels ("he felt a wave of fear").
+- Uniformly polished dialogue with no imperfect human texture.
+- Generic emotional labels ("he felt a wave of fear") where sensory or behavioral detail was possible.
 - Summary-heavy scenes where dramatization was possible.
 - Overexplaining motives the scene already demonstrates.
 - Repeating the same insight in narration, dialogue, and interior thought.
-- Artificially profound closing lines on every scene.
+- Artificially profound closing lines applied to every scene.
 - Constant micro-cliffhangers.
 - Excessive fragments used as manufactured intensity.
 - Generic competence language without concrete physical or institutional detail.
 - Weather-as-mood openings or closings.
-- "For a moment…" / "He understood, then, that…" interior epiphany constructions.
+- Interior epiphany constructions ("For a moment…" / "He understood, then, that…") used as narrator scaffolding.
 - Naming an emotion the scene has just shown.
+- Numeric density used as a substitute for emotional texture.
 - Turning Jack into a narrator who announces "patterns."
 
 ## Use
