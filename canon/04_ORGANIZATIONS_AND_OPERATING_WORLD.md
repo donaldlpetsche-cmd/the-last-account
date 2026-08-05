@@ -66,20 +66,33 @@ Methods include bribery, surveillance, cyber intrusion, coercion, evidence manip
 
 ## Weaver, Newman & Gaines, LLC
 
-**Common shorthand:** Weaver Newman or WNG  
+**Common shorthand:** Weaver Newman or WNG
 **Book One location:** Restored Boston Mercantile Trust Building
 
 The firm occupies a historic banking hall and original vault complex. Relevant areas include:
 
 - Restored public banking hall and ballroom/gala space.
-- Restricted office floors.
+- Restricted office floors (WNG occupies floors six through nine).
 - Original main vault chamber.
 - Deposit compartments.
 - Internal document-control cabinet with an antique secondary lock.
 - Archive level.
 - Service elevator network.
 - Rear service area reachable through an abandoned counterweight shaft.
+- Preserved bank-officers' stair from the executive corridor directly down to the vault level, badge-controlled. Retained during the restoration as a historic feature and left functional. Ordinarily locked at the corridor door; the badge reader accepts only credentials on the facilities whitelist.
 
 ## Boston Mercantile Trust Building
 
 Book One's primary operational location. The building's layered historic and modern systems create the impossible-access problem and the later fire/extraction problem.
+
+### Vault access system (canon)
+
+The original vault door was preserved and remains mechanically functional (seven-foot restored steel, brass wheel). A modern access layer was added during the WNG restoration:
+
+- Six-digit keypad beside the door, keyed to a small authorized-user set including senior partners.
+- Biometric palm reader below the keypad, secondary factor.
+- Ceiling camera above the door with a small red indicator; feeds to building security.
+- Corridor motion sensor midway down the bank-officers' stair.
+- Access logs escalate to a monitored console after posted business hours unless a scheduled maintenance window has been opened.
+
+Chelsea Boone's temporary access window during the prologue used a legitimately provisioned facilities credential to load a maintenance utility that ran a camera loop, bypassed the corridor sensor, and opened an access window during which the keypad would accept Tomas Weaver's code without escalating an alert. The utility carried data only — no audio, no video. It streamed status telemetry to Chelsea and could deliver short text messages in either direction. On session termination the link and its logs auto-purged from Chelsea's end.

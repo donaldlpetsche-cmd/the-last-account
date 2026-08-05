@@ -7,12 +7,15 @@
 
 ## Prologue — The Account
 
-**POV:** Stephen  
-**Target:** 1,800 words
+**POV:** Stephen (Part I), Chelsea Boone (Part II)
+**Register:** A dominant throughout; C for Chelsea's office setting
+**Target:** ~2,000 words (Stephen ~700; Chelsea ~1,300)
 
-Stephen enters the Boston Mercantile Trust after hours using legitimate WNG credentials and Tomas Weaver’s code. An old key opens the internal document cabinet in the original vault. He photographs a handwritten ledger recording purchased outcomes, including altered testimony, withdrawn objections, discredited employees, relocated families, redirected investigations, and arranged deaths. Chelsea has created a temporary camera and access window. Stephen hides the key in his briefcase lining and begins an incomplete message to Avery before Rylan enters and asks who else he told.
+Part I — Stephen: Cold open inside the original vault. The access panel outside begins to cycle. Stephen slits the briefcase lining with a fingernail, jams the old key through the gap and presses the fabric flat. He pockets his phone with a drafted message to Avery and one attached ledger image, both unsent (no signal). He walks toward the door composed. Rylan intercepts. Cover fails in one exchange. Stephen tries to break past and is knocked unconscious. The photographs die on his phone. The key survives in the lining.
 
-**Closing hook:** Rylan: “Who else have you told?”
+Part II — Chelsea: The next morning at WNG. Chelsea has been monitoring a data-only cryptic status utility from home during Stephen's entry. She never had audio or video. A prearranged one-word check-in from Stephen by 6:15 a.m. never arrived. At her desk from 7:30 onward she pretends to work while replaying what she watched: the countdown, the MOVE alert she pushed when a vault security-policy change fired from an admin console, the session terminating fourteen seconds later without his sign-off. The word *suicide* moves through the floor by mid-morning. She understands what actually happened, understands she is now the only person who does, and chooses silence. She does not signal. She does not contact Avery.
+
+**Closing hook:** Chelsea watches Rylan cross the floor toward Tomas's office at 9:47 a.m. and does nothing.
 
 ## Avery Bentley
 

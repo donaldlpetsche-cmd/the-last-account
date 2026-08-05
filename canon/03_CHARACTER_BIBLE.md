@@ -359,7 +359,19 @@ Stephen's widow. Brings Jack the accusation, voicemail, notes, photograph, and o
 Senior figure at Weaver, Newman & Gaines, LLC. Book One's visible principal antagonist. Hired the outside organization to frame Stephen, suppress the discovery, destroy the ledger, and eliminate witnesses.
 
 ### Chelsea Boone
-Stephen's internal colleague. Leaves a deliberate audit inconsistency as a signal, later confirms the ledger and cleanup plan, and becomes a threatened witness.
+Stephen's internal collaborator at Weaver, Newman & Gaines. Mapped POV for Book One prologue (Part II) and Chapter 13.
+
+**Role at WNG:** internal systems auditor, hybrid financial-systems and IT/security oversight, reporting through operations rather than through partners. Her position gives her legitimate elevated access to firm systems and to a subset of building-facilities credentials, and it puts anomalous transactions across her desk in the ordinary course of work.
+
+**Prior relationship with Stephen:** the two collaborated quietly for approximately eight weeks before the prologue. Chelsea placed a deliberate audit inconsistency in a report as bait for anyone attentive enough to see it. Stephen saw it. He approached her. Together they reconstructed enough of the underlying pattern to conclude the operational record lived in the original vault's document-control cabinet.
+
+**Prologue role:** she built and ran the temporary building-access window from home during Stephen's entry through a cryptic status utility that carried data only — no audio, no video. She and Stephen had prearranged a benign one-word text he would send by 6:15 a.m. the morning after to confirm he had gotten out. It did not come.
+
+**Key protocol:** Chelsea recovered the old key during her involvement in Edward Hollister's post-mortem file wind-down and placed it in a yellow envelope beneath the bottom drawer of Hollister's desk with fresh adhesive. Stephen found it in the ordinary course of his own participation in the wind-down. Chelsea and Stephen never discuss the key directly at any point. Everything else about the plan they discussed openly.
+
+**Post-prologue posture:** after Stephen's death Chelsea goes still. No new signals, no reach-outs, no anomalies. She does not contact Avery. The audit inconsistency she placed weeks earlier remains in the file for Jack's crew to find. Their meeting in Chapter 13 is her first re-engagement.
+
+**Later Book One role:** confirms the ledger's location and content and the cleanup plan; becomes a threatened witness during the gala operation; survives extraction; can explain the system to authorities afterward.
 
 ### Rylan Adams
 Security director and mid-level associate of the hidden organization. Not part of Addison's inner circle. Implements surveillance, Stephen's staging, records control, gala cleanup, and the attempted fire.

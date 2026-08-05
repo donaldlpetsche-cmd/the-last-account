@@ -11,7 +11,7 @@ Anything on the AI-prone list below must be flagged for human review before the 
 - Close third person, past tense.
 - One viewpoint per scene.
 - Jack is primary viewpoint.
-- Secondary viewpoints are limited and purposeful: Avery, Nina, Marcus, Anton, Reese, Hattie, Addison, and Stephen where mapped.
+- Secondary viewpoints are limited and purposeful: Avery, Nina, Marcus, Anton, Reese, Hattie, Addison, Stephen, and Chelsea where mapped.
 - No head-hopping.
 - The narration may not reveal facts the viewpoint character does not know.
 - Each viewpoint has a locked voice card in `workflow/05_POV_VOICE_CARDS.md`. A blind reader should identify the POV within two paragraphs.

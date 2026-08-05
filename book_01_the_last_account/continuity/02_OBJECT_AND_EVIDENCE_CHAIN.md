@@ -7,7 +7,7 @@
 3. Recovered by Chelsea Boone during the wind-down of Hollister's files following his death. She placed it in a yellow envelope, taped the envelope beneath the bottom drawer of Hollister's desk with fresh adhesive, and left the office undisturbed.
 4. Found by Stephen approximately six days before the prologue night, in the ordinary course of his participation in the associate rotation closing out Hollister's client-file transitions. Stephen understood the signal. Chelsea and Stephen never discuss the key directly.
 5. Used by Stephen the night of the prologue to open the internal cabinet in the original vault.
-6. Hidden by Stephen in his briefcase lining immediately after use, before Rylan enters.
+6. Hidden by Stephen in his briefcase lining immediately after he hears the vault access panel begin to cycle from outside. Stephen slits the lining with a fingernail in the moment. There is no pre-existing tailor-made slot; the improvisation is desperate and visible in the finished cut.
 7. Found by Avery in the briefcase lining after Stephen's death.
 8. Given by Avery to Jack during Chapter 1.
 9. Examined by Anton in Chapter 4.
@@ -27,15 +27,19 @@
 7. Authenticated pages and supporting records distributed by Nina in Chapter 26.
 8. Used with digital records to expose Stephen's framing and the purchased-outcomes system.
 
-## Stephen's photographs
+## Stephen's ledger photographs
 
-Stephen photographs ledger pages in the prologue. The exact survival, device, upload, and later recovery chain is not fully locked in the available project record.
+Stephen photographs ledger pages in the prologue on his personal phone, non-sequentially and two frames per page per Chelsea's protocol. The vault has no cellular signal; the images cannot leave the device from inside the vault. Stephen is knocked unconscious before he exits the vault. His phone is taken into Rylan's custody as part of the staging that follows. The photographs die with the phone and never reach Avery, Chelsea, or Jack.
 
-**Continuity rule:** Do not assume Avery possesses the ledger photographs. Chapter 1's “photograph” must be identified in manuscript continuity before it is treated as a ledger image.
+**Continuity rule:** the ledger images are not in play as evidence in Book One until the physical ledger is recovered in Chapter 23. Do not resurrect the phone.
+
+## Avery's photograph (Chapter 1)
+
+The photograph Avery gives Jack in Chapter 1 is not a ledger image. It is a photograph Stephen took during an earlier scouting attempt inside the original vault, showing the internal document-control cabinet in situ behind the rolling foundation-records shelf. Stephen kept it hidden at home in the final weeks of his life. Avery does not know what the image is of. The photograph pays off in Chapter 4 when Anton examines the key and Jack correlates the image to the cabinet Anton describes.
 
 ## Stephen's incomplete message
 
-Drafted for Avery: “There is something wrong with the account. Not the money. The reason for it…” Exact transmission status and final recoverable wording require verification against the current prologue manuscript.
+Drafted on Stephen's phone in the parking garage before entering the building, addressed to no one, held as a draft: *"There is something wrong with the account. Not the money. The reason for it. I should have told you sooner. I am sorry."* One image from the ledger was attached. The message was never sent. The vault has no signal; Stephen is knocked out before he exits. The draft dies with the phone.
 
 ## Eighteen-million-dollar accounting record
 

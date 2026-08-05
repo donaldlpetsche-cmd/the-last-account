@@ -110,7 +110,7 @@ Voice cards are authoritative. When a chapter draft conflicts with the card, the
 
 ---
 
-## Stephen Bentley — Prologue only
+## Stephen Bentley — Prologue Part I only
 
 **Register:** A (dominant); a brief C-adjacent opening in the lobby.
 **Charm register:** none.
@@ -122,6 +122,23 @@ Voice cards are authoritative. When a chapter draft conflicts with the card, the
 - **Sentence tendencies:** short, procedural, controlled. Fear renders through physical detail: sweat, shake, blurred photo, breath.
 - **Silences:** used as concealment. Stephen listens for footsteps more than he thinks.
 - **Dialogue tics:** the practiced cover story. "Quarter-end." "Weaver wants the exhibits by seven." Cover fluency is a character trait, not a plot device.
+
+---
+
+## Chelsea Boone
+
+**Registers:** C dominant (professional composure at WNG); A when she is running or replaying operational telemetry; B rare and only glimpsed in Book One.
+**Charm register:** none. She carries professional composure.
+
+- **Notices first:** anomalies. Out-of-pattern access, sessions that terminate without sign-off, files touched at the wrong hour, a colleague's face that is a fraction off from ordinary.
+- **Measures time by:** the seconds since a session dropped, the minutes past a prearranged check-in, retention windows, quarter closes.
+- **Native metaphors:** systems and controls. Exception, reconciliation, integrity, log, purge, chain of custody.
+- **Never in words:** Stephen's name spoken aloud after the prologue. The word *friend* about him. The word *afraid* about herself. Any admission of what she watched last night.
+- **Sentence tendencies:** precise, controlled, technically fluent. Complete sentences. Under strain the fluency tightens further rather than breaking.
+- **Silences:** trained. She has been sitting on knowledge for eight weeks before the prologue and has taught herself to hold a face across a meeting.
+- **Dialogue tics:** professional courtesy. Uses proper names. Deflects with technical detail when she needs to change subject. Never volunteers information.
+- **Fear rendered through:** a spreadsheet she keeps re-formatting, a passphrase she mistypes twice, the small physical failures of a person maintaining an ordinary surface.
+- **Book One arc constraint:** after the prologue she goes still. Her POV in Chapter 13 must register that stillness as a decision she has been holding, not as a passive state. When Jack finds her, she meets him already having chosen.
 
 ---
 

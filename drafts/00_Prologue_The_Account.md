@@ -1,208 +1,36 @@
 # Prologue — The Account
 
-**Draft:** v2
-**POV:** Stephen Bentley
-**Register:** A (dominant); brief C-adjacent opening in the lobby
-**Target:** ~1,800 words
+**Draft:** v3
+**POV:** Stephen Bentley (Part I); Chelsea Boone (Part II)
+**Register:** A dominant throughout; C for Chelsea's office setting
+**Target:** ~2,000 words (Stephen ~700; Chelsea ~1,300)
 **Status:** Chat draft for review
 
 ---
 
-Stephen Bentley crossed the lobby of the Boston Mercantile Trust Building at 9:43 on a Thursday night and the guard at the marble desk did not look up.
+## Part I
 
-The guard was watching a Celtics game on his phone with the sound off. He waved the badge reader toward Stephen without turning his head, heard the green tone, and grunted.
+Stephen closed the cabinet and turned the key and the vault access panel outside began to cycle.
 
-"Long one?"
-
-"Quarter-end."
-
-The guard nodded at the screen. Stephen wrote his name in the log and put the floor at seven.
-
-He had used that answer for six years. It worked because it was usually true.
-
-The lobby ran deep to the elevators, marble under chandeliers, a brass clock above the doors that had hung there since the bank opened in 1891. The clock ran twenty-seven seconds slow. The facilities director had noticed once before a board dinner and decided the discrepancy was not worth the restoration bill. The building was full of decisions like that.
-
-Stephen's shoes sounded too loud on the stone.
-
-The elevator opened on seven into a reception area that had already gone to half-lights on the automatic timer. Photographs of regattas and hospital wings hung above empty chairs. He walked past reception, turned into the executive corridor, and stopped at the door at the far end.
-
-His badge should not have opened it.
-
-It did.
-
-Chelsea had been right.
-
-He took the interior stair down past six and five and stopped at a landing with no number on the wall. The door there was painted the same flat gray as the corridor. A small rectangular camera watched it from above.
-
-The red indicator was dark.
-
-Stephen looked at it for two seconds and went through.
-
-The temperature dropped. The floors above smelled of coffee and citrus cleaner. Down here the air was old stone and cold metal and the mineral damp of a basement built before anyone expected buildings to breathe. His phone gave up its signal one bar at a time as he walked.
-
-He had known it would. Seeing the bars empty still tightened his throat.
-
-The vault door waited at the end of the corridor. Seven feet of restored steel, brass wheel polished under recessed lights. During client tours the firm's marketing brochure called it a preserved architectural feature. The tour guides did not mention that it still worked.
-
-He set his document case on the narrow table beside the door and opened his laptop.
-
-A maintenance utility was already running. Chelsea had loaded it through a temporary building-access credential three days earlier. Green status lines filled the screen.
-
-CAMERA LOOP: ACTIVE
-CORRIDOR SENSOR: BYPASSED
-VAULT ACCESS WINDOW: 08:12
-
-Eight minutes, twelve seconds.
-
-He closed the laptop without signing into the company network.
-
-A keypad had been added beside the original door. Stephen entered the six digits he had watched Tomas use three months earlier, in front of a client whose death had triggered a dispute among three adult children. The light went from red to amber. He put his right palm against the reader below it. For a full second the panel did nothing.
-
-Then the light turned green.
-
-The modern lock released with a soft click. The old wheel required more. He gripped it with both hands and pulled. It resisted, then gave, then turned with the smoothness of machinery kept in condition by someone who expected to use it.
-
-He opened the door far enough to enter.
-
-The lights came on one row at a time.
-
-The vault was larger than the photographs made it look. Shelving divided the space into narrow aisles of document boxes. Some carried printed retention labels. Others were marked only with initials and dates. Along the right wall stood several dozen safe-deposit compartments that predated the Second World War.
-
-He took the key from his inside pocket.
-
-It did not fit any of them.
-
-He moved deeper into the room.
-
-The cabinet stood almost hidden behind a rolling shelf of foundation records. Chelsea had found the floor plan in an archived renovation permit and could not tell him whether the cabinet had survived the work.
-
-It had.
-
-Steel doors, painted dull green. No keypad. No record of its existence in the current storage index.
-
-He knelt because kneeling felt like the correct posture for what he was doing.
-
-He pushed the key in. It stopped halfway.
-
-He pulled it out and wiped his palm on his trousers. The teeth were uneven and stained dark around the edges. Six days ago he had found it in a yellow envelope taped beneath the bottom drawer of Edward Hollister's desk, the adhesive fresh against paper that had been aging for decades. He had understood before he finished sitting down. He and Chelsea had not spoken about the key at any point since, and would not.
-
-He tried again. He lifted the key a hair as he turned.
-
-The lock opened.
-
-He held still. Nothing from the corridor. No alarm.
-
-Six minutes.
-
-The cabinet held four shelves. Three were empty. On the second shelf sat a black ledger bound in oxblood cloth, thick enough to require both hands, its corners worn to gray. No title on the spine. A narrow strap held it closed.
-
-He carried it to the table beneath the vault lights and opened it.
-
-The entries were handwritten in black ink. Each line began with a date, a client code, a transaction reference, and an amount. A short description filled the final column.
-
-He read the first page twice.
-
-*C-1187. Regulatory withdrawal. Son's tuition and appointment secured.*
-
-He recognized the client. He recognized the outcome. He did not recognize, until the second reading, that what was recorded was not the outcome the public record had ever shown.
-
-He turned the page.
-
-*M-4421. Municipal objection resolved. Payment through redevelopment counsel.*
-
-*W-9003. Former employee contained. Substance history established. Custody concern introduced.*
-
-*P-7710. Civil witness corrected before deposition.*
-
-Stephen felt the first hard beat of panic under his ribs.
-
-The language was restrained. Almost polite. Nothing admitted a crime directly. It did not need to. Every code tied to a matter already in the firm's system, and every matter, when the entries and the records were laid beside each other, would speak.
-
-He reached the entries from the previous year. A payment to a security consultancy matched the week an investment manager had died in a boating accident off Rhode Island.
-
-*Exposure closed. No secondary inquiry anticipated.*
-
-He stepped back from the table.
-
-For several seconds he could hear the ventilation and his own breathing.
-
-He had expected bribery. Tax concealment. Political payments routed around reporting requirements. He had imagined the book that would bring regulators down on Tomas Weaver before Tomas understood what had happened.
-
-The book was worse.
-
-It was not a record of stolen money. It was a record of purchased outcomes.
-
-He took his phone from his jacket. Chelsea had told him not to photograph in sequence. If the device was taken, they needed fragments difficult to interpret without the underlying accounts. Two frames per page against blur.
-
-He began with the entry tied to the dead investment manager.
-
-Then the witness.
-
-Then the foundation transfer.
-
-His hands shook enough that the third image blurred. He took it again.
-
-The ledger held years of entries. Hundreds. Some carried names he knew. Some had only an amount and a single word.
-
-*Resolved.*
-
-*Relocated.*
-
-*Discredited.*
-
-One said *Permanent.*
-
-He stared at it until the letters stopped meaning anything and then meant something else.
-
-His laptop chimed.
-
-He nearly dropped the phone.
-
-He opened the computer.
-
-CAMERA LOOP: ACTIVE
-CORRIDOR SENSOR: BYPASSED
-VAULT ACCESS WINDOW: 02:41
-
-Beneath the status lines a single message had appeared.
-
-MOVE. SECURITY CHANGE.
-
-Chelsea.
-
-He closed the ledger and carried it back to the cabinet. For one bad second he thought about taking it. The book weighed at least twelve pounds. The moment it left the shelf, Tomas would know exactly what had been found and could reconstruct approximately who had found it.
-
-Copies were safer.
-
-He set the ledger back on the shelf and closed the cabinet and turned the key.
+He heard the tone. He heard the small hydraulic sigh the modern lock made when it accepted a code. He heard the old wheel start to move.
 
 He looked at the key in his palm.
 
-The document case sat on the outer table where he had left it. He opened it and worked his thumb along the bottom seam of the lining until he found the gap the tailor in Somerville had left him. He pushed the key through the gap. He pressed the fabric flat.
+The document case sat on the outer table three steps away. He crossed to it and opened it and put his thumbnail against the seam where the interior lining met the frame and pressed until the stitching gave. It gave easier than he had expected. He worked the nail along an inch of thread and pushed the key through the gap and pressed the fabric flat and closed the case. From two feet away the case was a case.
 
-He took the phone back out.
+He took the phone from his jacket. The message he had drafted in the garage was still open. One image was still attached. The signal bars were still empty.
 
-A message draft was already open. He had written it in the parking garage before coming inside because he had not wanted to compose the words for the first time in a vault. It was addressed to no one.
+He put the phone back in the inside pocket of his jacket.
 
-*There is something wrong with the account. Not the money. The reason for it. I should have told you sooner. I am sorry.*
+He picked up the case.
 
-He attached one image. Not the worst page. Not the best either. A middle page that would mean nothing without the reference and everything with it.
+The old wheel completed its quarter turn.
 
-Avery was on the lock screen. On the back steps last October, wrapped in one of his old sweaters, laughing at something outside the frame.
+He set his shoulders and walked toward the door. He had six years of walking toward doors composed. He put a version of that face on now and drew a breath and told himself the story he was about to tell.
 
-Two minutes.
+The vault door swung inward.
 
-A sound came from the corridor.
-
-Not the stairwell door. Closer. The soft electronic release of the vault access panel.
-
-He put the phone in the inside pocket of his jacket and closed the document case and turned toward the door.
-
-The wheel began to move before he reached it.
-
-Someone was opening the vault from outside.
-
-The door swung inward. Rylan Adams stood in the gap.
+Rylan Adams stood in the gap.
 
 He had come without a coat. His sleeves were rolled to his forearms. His tie was gone. Nothing in his face suggested he had expected to find the vault empty.
 
@@ -213,8 +41,6 @@ His eyes went from Stephen to the document case to the cabinet at the back of th
 Stephen kept his hand on the case.
 
 "Neither should you."
-
-Rylan stepped inside and pulled the door until only a narrow opening remained.
 
 "You used Mr. Weaver's access code."
 
@@ -230,35 +56,137 @@ The answer had worked in the lobby.
 
 Not here.
 
-The phone pressed against Stephen's ribs inside the jacket. Behind the stone walls it searched for a signal it would not find until he reached the elevator.
+Stephen moved.
 
-Rylan's eyes settled on the shape faint through the lining of the jacket. The practiced calm in his face slipped. Not much. Just enough.
+He went for the gap at Rylan's left shoulder because Rylan's right hand was closer to his hip. Three strides. He got two.
 
-"Who else have you told?"
+Something took him behind the ear.
+
+The vault floor came up faster than he had time to understand.
+
+His last clear thought was of the seam in the lining of the case, and the key inside it, and how ordinary the case would look sitting beside him on the floor.
 
 ---
 
-*End prologue draft v2. Approximately 1,780 words.*
+## Part II
+
+Chelsea Boone reached her desk at 7:32 a.m. and set her coffee down and opened the same spreadsheet she had been formatting for eight weeks.
+
+Her phone lay screen up beside the keyboard. The last message on it was from her sister, from Tuesday, about a birthday. Nothing had come in since 11:41 the night before.
+
+The prearranged text had been supposed to arrive by 6:15. One word. *Home.* That was all. She had told Stephen she did not want anything more than that.
+
+She had waited for it in the kitchen with the lights off from 5:40 until 6:44 and had then dressed and driven to work.
+
+She opened her email. She replied to a note about a Q3 reconciliation. She adjusted a column width. She did not look at her phone.
+
+The floor filled around her the way it filled every morning. The coffee machine ran. Someone laughed once in the corridor and stopped. A partner she did not know said good morning to a partner she did know. The kitchen door swung twice.
+
+At 8:14 the first sound came out of key. A pause where there was not usually a pause. Two of the associates by the printer stopped talking mid-sentence and did not start again.
+
+At 8:19 the operations director walked past her cubicle without seeing her. That was not the operations director's habit.
+
+At 8:26 the head of HR came out of the elevator with her hand at her mouth.
+
+By 8:40 the word *garage* had reached Chelsea's row of desks through three separate channels. By 8:47 the word *car.* By 8:52 nobody had said the word *suicide* out loud, and everyone had said it.
+
+Chelsea heard Stephen's name for the first time at 8:56, from a paralegal one row over, in the sentence *I saw him yesterday.*
+
+She let her face do what her face was supposed to do.
+
+She said the right small things. She stood up when other people stood up. She went to the kitchen when the kitchen filled and stood at the edge of the group and held a cup she did not drink and listened to a version of the story that was not the story.
+
+He had seemed off lately, someone said.
+
+The quarter-end, someone said.
+
+His wife, someone said, and did not finish.
+
+Chelsea put the cup down and went back to her desk.
+
+She opened the spreadsheet again and looked at it without seeing it and let her head do what she had not let it do in the kitchen.
+
+She had watched him from her apartment. She had not gone home to her apartment; she had gone to the studio in her building that she rented under a second name because she had known that whatever happened tonight she did not want happening in the room where she slept. She had set her laptop on the desk at 9:20 and opened the utility and watched the green status lines come up one by one.
+
+CAMERA LOOP: ACTIVE.
+
+CORRIDOR SENSOR: BYPASSED.
+
+VAULT ACCESS WINDOW: 08:12.
+
+She had watched the countdown.
+
+She had watched the palm-reader event fire green at 9:52. She had watched the vault-door telemetry register OPEN at 9:53. She had watched the interior sensor she had also bypassed report nothing for four minutes and then report the small pressure change of the internal cabinet lock releasing. She had watched him work.
+
+At 10:07 an event she had not built had appeared in her console.
+
+VAULT ACCESS: POLICY OVERRIDE. USER: T. WEAVER (ADMIN).
+
+She had understood it in the second it took to appear. Someone at an authorized admin console had escalated the vault access permissions from Tomas's account. Not Tomas. Tomas was at the Fenway thing and had been photographed there at 9:40. Someone with Tomas's credentials.
+
+She had pushed the alert.
+
+MOVE. SECURITY CHANGE.
+
+She had watched the session for fourteen seconds.
+
+At 10:07:14 the utility had reported SESSION TERMINATED. NO SIGN-OFF.
+
+The link had auto-purged. Her end of it had disappeared clean.
+
+She had sat with her hand on the laptop for a long time. She had told herself he had gotten out. She had made herself believe it in one-minute increments until 4:00 a.m., when she had lain down on the studio couch without undressing and waited for a phone to make a sound it did not make.
+
+At her desk now, at 9:31 a.m., she understood what she had been watching.
+
+The policy override had been Rylan. Rylan on Tomas's credentials at an admin console. Rylan opening the vault from outside while Stephen was still in it. Rylan intercepting him at the door. She did not know what came after that and she did not need to know. Stephen had not driven himself into the WNG garage at any hour of the morning. Stephen had not run a hose from a tailpipe. Stephen had not sat in a running car until he stopped breathing.
+
+Stephen had been put there.
+
+She kept her hands on the keyboard.
+
+She thought about Avery. She thought about the small back-steps photograph on Stephen's lock screen and the sound of his voice the one time he had mentioned her by name in this office and how careful he had been not to. She thought about calling her from a pay phone she would have to find, and about what a phone call from a stranger would do to a woman who had woken up to a knock at the door, and about what a phone call from a stranger would do to Chelsea's own next six hours if the wrong person were watching the wrong line.
+
+She did not reach for her phone.
+
+She opened a folder titled Q3 EXCEPTIONS and closed it and opened it again.
+
+The audit inconsistency she had placed eight weeks ago sat two rows down on the exception list. It had brought Stephen to her office on a Thursday afternoon in September with a printout in his hand and a question in his face he had not spoken out loud. It was still there. It would keep. It had been designed to keep.
+
+She would not add another. Not now. Not while whoever had opened that vault door was somewhere in this building deciding what else needed cleaning.
+
+She would do her job. She would answer email. She would eat lunch at her desk. She would leave at her ordinary hour. She would go back to the studio in her building and not to the apartment. She would not turn on the laptop. She would not open the utility she had already purged.
+
+She would wait.
+
+At 9:47 a.m. a shape moved in her peripheral vision along the far side of the floor.
+
+Rylan Adams crossed from the elevator bank without looking at anyone. His coat was on. His tie was on. His face was the face he wore in the building on ordinary days. He passed the reception desk and turned into the executive corridor and did not slow at Tomas Weaver's door.
+
+Chelsea watched him go without turning her head.
+
+Her hand rested on the mouse. Her cursor sat in an empty cell on the spreadsheet. The cell was ready to accept whatever she typed next.
+
+She did not type.
+
+---
+
+*End prologue draft v3. Approximately 1,990 words.*
 
 ## Flags for review
 
-Per `workflow/01_PROSE_AND_NARRATIVE_STANDARD.md`, the following instances warrant a human read before acceptance:
-
-- **[AI-FLAG: tricolon]** — "He had expected bribery. Tax concealment. Political payments routed around reporting requirements." Three items of similar grammatical weight rendered as three sequential sentences. Kept because the rhythm sets up the *"The book was worse."* punch. Confirm the beat earns the pattern.
-- **[AI-FLAG: not-X-but-Y]** — "It was not a record of stolen money. It was a record of purchased outcomes." Close cousin of the flagged "not this, but that" construction. Preserved from prior chat draft because both drafts landed on the same phrasing and it reads as the scene's operative insight. Confirm.
-- **[AI-FLAG: adjacent length parity]** — Opening pair: *"He had used that answer for six years."* / *"It worked because it was usually true."* Nine and eight words. Within one. Kept for the small rhythm, but flag it.
-- **[AI-FLAG: adjacent length parity]** — *"Then the witness."* / *"Then the foundation transfer."* Fragmentary pair. Deliberate photographic beat, but confirm the parallel doesn't read as synthetic.
-- **[AI-FLAG: interior-summary]** — *"He had understood before he finished sitting down."* Brief summary of a realization. Kept because it is factual and one-line, but adjacent to the pattern the standard restricts. Confirm.
-- **[AI-FLAG: closing beat symmetry]** — *"Not much. Just enough."* Paired short fragments in the closing beat. Confirm the two-beat Rylan confrontation reads as intended and not as manufactured intensity.
+- **[AI-FLAG: adjacent length parity]** — *"CAMERA LOOP: ACTIVE. / CORRIDOR SENSOR: BYPASSED. / VAULT ACCESS WINDOW: 08:12."* Three telemetry lines rendered as three paragraphs. Deliberate echo of Stephen's operational screen. Confirm the repetition reads as memory, not authorial rhythm.
+- **[AI-FLAG: closing beat symmetry]** — Final beat pairs *"The cell was ready to accept whatever she typed next."* with *"She did not type."* A one-sentence beat of not-doing. Kept because the whole prologue's second half turns on Chelsea's choice to do nothing. Confirm.
+- **[AI-FLAG: interior-summary]** — *"She had understood it in the second it took to appear."* Brief epiphany narration. Kept because Chelsea's professional reading of the console is a competence beat, not a reflective one. Confirm.
 
 ## Continuity checks
 
-- POV: Stephen throughout. No head-hopping.
-- Register: A dominant with a C-adjacent lobby opening. One transition, at the elevator.
-- Numeric specificity: 9:43 p.m., 1891, twenty-seven seconds, 8:12 window, 2:41 remaining, six years, three months, six days, twelve pounds.
+- POV: Stephen throughout Part I; Chelsea throughout Part II. No head-hopping.
+- Register: A dominant throughout. Chelsea's office setting reads C on the surface (professional composure at WNG) with A running underneath (operational replay).
 - No em dashes. No semicolons.
-- Key origin: Hollister's desk, six days prior, per locked canon.
-- Ledger entries use canon format (code, mechanism, euphemism).
-- Photography protocol: non-sequential, two frames per page (per canon).
-- Message wording: locked phrasing plus the *"I should have told you sooner. I am sorry."* extension from your earlier draft.
-- Key hidden in briefcase lining before Rylan enters. Rylan closing line as canon hook.
+- Key hidden by fingernail slit, not tailor, per updated canon.
+- Chelsea's link is data-only per updated canon (no audio, no video). The "who else have you told" line said in the vault does not appear here; Chelsea does not hear it.
+- Prearranged 6:15 a.m. check-in was one word: *Home.*
+- Vault security-policy override fired on Tomas's credentials from an admin console; Tomas was at a Fenway function at the time. This gives Chelsea her conclusion (Rylan on Tomas's credentials) and preserves Tomas's off-page alibi for the moment of interception.
+- Chelsea's studio in her building, rented under a second name, is a new detail. Small canon addition — confirm and I'll add to the Character Bible entry for Chelsea if you agree. If you'd rather she monitored from her actual apartment, easy revision.
+- Closing hook: Chelsea watches Rylan cross toward Tomas's office at 9:47 a.m. and does not act.
+- Stephen's photographs and drafted message die on the phone in Rylan's custody.
