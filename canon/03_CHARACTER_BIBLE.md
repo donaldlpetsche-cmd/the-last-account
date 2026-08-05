@@ -47,12 +47,16 @@ Jack is a private, confidential special-situations adviser whose clients underst
 - He often converts love into planning, control, and protection.
 - His Book One failure is withholding mission-critical danger from the crew, denying them informed choice and contributing to Reese's injury and the fracture with Marcus.
 
+### Residence and operating base
+
+Jack lives in a South End townhouse held in his own name. The crew does not gather there. His operating base is a separate Chelsea waterfront warehouse held under one of Nina's long-standing aliases; see `canon/04_ORGANIZATIONS_AND_OPERATING_WORLD.md`.
+
 ### Unresolved
 
 - Exact undergraduate school and field.
 - Exact circumstances of losing or surrendering his law license.
 - Exact source, size, and structure of his wealth.
-- Current residence and primary operating facility details.
+- Interior details of the South End townhouse (lock before first on-page scene).
 - Father's current life, sobriety, remarriage, or later respectability.
 - The long-term resolution with Matthew.
 
@@ -98,6 +102,10 @@ Jack is a private, confidential special-situations adviser whose clients underst
 Nina believes information is safer than trust. She uses knowledge and alternate identities to preserve control. She fears powerlessness while loved ones are harmed and fears losing identity or belonging.
 
 She is field-capable but materially weaker when technology, data, or communications fail.
+
+### Alias infrastructure
+
+Nina maintains a small, load-bearing set of long-standing aliases that predate most of the crew's current operations. One of these aliases holds title to the Chelsea warehouse that serves as the crew's operating base; the identity has independent filing, credit, tax, and utility history sufficient to survive routine records inspection. See `canon/04_ORGANIZATIONS_AND_OPERATING_WORLD.md`.
 
 ### Stress tells
 
@@ -364,3 +372,10 @@ Manager associated with the Quincy security firm used to surveil Avery. Previous
 
 ### Ortega
 Person who discovers Stephen's car in the Weaver Newman garage and contacts Rylan before calling 911.
+
+### Edward Hollister
+Retired senior partner at Weaver, Newman & Gaines. Retired approximately eighteen months before the prologue and died of natural causes approximately six months before the prologue. His office and files were being closed out through the associate rotation at the time of Stephen's death, with Stephen among the associates handling client-file transitions.
+
+Chelsea placed the old key in an envelope taped beneath the bottom drawer of Hollister's desk during her involvement in that wind-down, choosing his office as a drop site because the space was unmonitored, largely empty, and could plausibly be reached by Stephen in the ordinary course of his review. The envelope is yellow with age; the adhesive holding it beneath the drawer is fresh. Chelsea and Stephen never discuss the key directly.
+
+**Hollister's own knowledge of the ledger, his relationship to the underlying purchased-outcomes system, and whether the key was originally his by chance or by design remain deliberately unresolved through Book One.** Later books may develop him as an early skeptic, a former participant, a red herring, or a combination. Do not close this door in Book One prose.

@@ -2,16 +2,19 @@
 
 ## Old key
 
-1. Originally belongs to retained Boston Mercantile Trust document-control hardware.
-2. Used by Stephen to open the internal cabinet in the original vault.
-3. Hidden by Stephen in his briefcase lining.
-4. Found by Avery after his death.
-5. Given by Avery to Jack during Chapter 1.
-6. Examined by Anton in Chapter 4.
-7. Retained securely by crew until gala operation.
-8. Used by Anton in Chapter 23 to open the ledger cabinet.
+1. Originally belongs to retained Boston Mercantile Trust document-control hardware. Small, heavier in the bit than a house key, brass gone the color of a penny that has been through a fire. Uneven teeth, stained dark around the edges. Requires a slight lift on turn.
+2. Present in retired senior partner Edward Hollister's office at Weaver, Newman & Gaines. Whether it was originally in Hollister's possession by chance or by design remains deliberately unresolved.
+3. Recovered by Chelsea Boone during the wind-down of Hollister's files following his death. She placed it in a yellow envelope, taped the envelope beneath the bottom drawer of Hollister's desk with fresh adhesive, and left the office undisturbed.
+4. Found by Stephen approximately six days before the prologue night, in the ordinary course of his participation in the associate rotation closing out Hollister's client-file transitions. Stephen understood the signal. Chelsea and Stephen never discuss the key directly.
+5. Used by Stephen the night of the prologue to open the internal cabinet in the original vault.
+6. Hidden by Stephen in his briefcase lining immediately after use, before Rylan enters.
+7. Found by Avery in the briefcase lining after Stephen's death.
+8. Given by Avery to Jack during Chapter 1.
+9. Examined by Anton in Chapter 4.
+10. Retained securely by crew until gala operation.
+11. Used by Anton in Chapter 23 to open the ledger cabinet.
 
-**Do not:** allow the key to open the main vault, appear from another source, or be known to Tomas as recovered unless a chapter establishes that discovery.
+**Do not:** allow the key to open the main vault, appear from another source, be known to Tomas as recovered unless a chapter establishes that discovery, or be openly discussed between Chelsea and Stephen at any point before Stephen's death.
 
 ## Handwritten ledger
 

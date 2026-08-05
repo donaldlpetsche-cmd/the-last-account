@@ -4,17 +4,24 @@
 
 Exact calendar dates are not yet locked. Use relative time until a master calendar is approved.
 
-### Seven weeks before Avery meets Jack
+### Prior to Stephen's final week
+
+- Edward Hollister, retired senior partner at WNG, dies of natural causes approximately six months before the prologue night.
+- His office and files enter the associate wind-down rotation. Stephen is one of the associates assigned to client-file transitions.
+- Chelsea Boone, during her own involvement in the wind-down, recovers the old key from Hollister's office. She places it in a yellow envelope with fresh adhesive beneath the bottom drawer of his desk. Chelsea and Stephen never discuss the key directly at any point.
+- Approximately six days before the prologue night, Stephen finds the envelope in the ordinary course of his work and understands the signal.
+
+### Seven weeks before Avery meets Jack (prologue week)
 
 - Stephen becomes frightened during his final week.
 - Changes parking and routine.
 - Checks the alarm.
 - Makes calls outside his ordinary pattern.
 - Continues making future plans.
-- Chelsea creates a temporary access and camera window.
+- Chelsea creates a temporary access and camera window and provides live status support during Stephen's entry.
 - Stephen enters the Boston Mercantile Trust after hours.
 - Uses legitimate WNG credentials, Tomas Weaver's code, and the old key.
-- Photographs the handwritten ledger.
+- Photographs the handwritten ledger (non-sequential order, two frames per page per Chelsea's protocol).
 - Hides the key in his briefcase lining.
 - Begins an incomplete message to Avery.
 - Rylan confronts him.
