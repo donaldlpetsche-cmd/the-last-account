@@ -350,7 +350,9 @@ Addison authorizes outcomes and treats people as expendable when required by the
 ## Book One supporting cast
 
 ### Stephen Bentley
-A Weaver, Newman & Gaines employee who discovers the handwritten ledger, photographs it, is framed for an eighteen-million-dollar theft, and is killed in a staged carbon-monoxide death.
+A Weaver, Newman & Gaines financial executive — controller-level, not an attorney. His role gives him professional standing over the firm's internal financial reporting, client-file transitions, and accounting-adjacent workflows. He is not admitted to the bar. He has no bar-association memberships or committee roles. Any future-plans, credentialing, or authority references in later chapters must be consistent with a senior financial officer rather than a practicing lawyer.
+
+Stephen discovers the handwritten ledger, photographs it, is framed for an eighteen-million-dollar theft, and is killed in a staged carbon-monoxide death.
 
 ### Avery Bentley
 Stephen's widow. Brings Jack the accusation, voicemail, notes, photograph, and old key. She does not know about the gala or ledger when she first approaches him.

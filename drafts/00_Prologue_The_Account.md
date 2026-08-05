@@ -34,7 +34,7 @@ He turned the page.
 
 Stephen felt the first hard beat of panic under his ribs.
 
-He turned pages. Names he knew. A dead investment manager. A federal docket marked with a single tick. And on a page from five years back, twice on one page and again on the next, in the same narrow disciplined hand, one word.
+He turned pages. Names he knew. A dead investment manager. A federal docket number he recognized. And on a page from five years back, twice on one page and again on the next, in the same narrow disciplined hand, one word.
 
 *Arranged.*
 
@@ -106,7 +106,7 @@ His last clear thought was of the split in the lining of the case, and the key b
 
 ## Part II
 
-Chelsea Boone reached her desk at 7:32 a.m. and set her coffee down and opened the same spreadsheet she had been formatting for eight weeks.
+Chelsea Boone reached her desk at 7:32 a.m. and set her coffee down and opened the same spreadsheet she had been working in for eight weeks.
 
 Her phone lay screen up beside the keyboard. The last message on it was from her sister, from Tuesday, about a birthday. Nothing had come in since 11:41 the night before.
 
@@ -142,19 +142,19 @@ Chelsea put the cup down and went back to her desk.
 
 She opened the spreadsheet again and looked at it without seeing it.
 
-Nothing had told her what had happened last night. There had been no window into the vault, no telemetry, no channel that could reach her from behind seven feet of restored steel. There had been the plan they had built over eight weeks and there had been the silence of a phone that should have chimed at ten past six.
+Nothing had told her what had happened last night. There had been no window into the vault, no telemetry, no channel that could reach her from behind seven feet of restored steel. There had been the plan they had built over eight weeks and there had been the silence of a phone that should have chimed at 6:15.
 
 She had known, sitting on the couch at the studio at 6:16, that something was wrong. She had not let herself know it. She had let herself count the ordinary reasons a message could be late until she reached the end of the ordinary reasons at 6:44 and then she had put on the clothes she had laid out the night before and gone to work.
 
 Now she reasoned it.
 
-Stephen had gone into that vault at nine-fifty. Stephen had future plans. Stephen had a wife he was planning to take to Rome in October and a chairmanship of the bar association's ethics committee he was quietly not turning down and a review of Hollister's remaining files he had been three-quarters of the way through. Stephen had not driven himself into the WNG garage at any hour of the morning and run a hose from a tailpipe. Stephen had not sat in a running car until he stopped breathing.
+Stephen had planned to enter the vault at nine-fifty, and nothing she knew suggested he had changed his mind. Stephen had future plans. Stephen had a committee chairmanship he had spent six months pretending he did not want and a review of Hollister's remaining files he was three-quarters of the way through. Stephen had not driven himself into the WNG garage at any hour of the morning and run a hose from a tailpipe. Stephen had not sat in a running car until he stopped breathing.
 
 Someone in the firm had reached him.
 
 She did not know who. She did not know how. She did not know whether he had died in the vault or in the garage or between the two.
 
-What she knew was that he was dead, and that she was the only person in the building who understood that the death was a lie, and that whoever had made the lie was somewhere in the building right now deciding what else needed cleaning.
+What she knew was that he was dead, and that she might be the only person on that floor who knew the death was a lie, and that whoever had made the lie was somewhere in the building right now deciding what else needed cleaning.
 
 She kept her hands on the keyboard.
 
